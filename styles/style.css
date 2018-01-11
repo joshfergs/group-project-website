@@ -1,12 +1,23 @@
-
-html {
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
   font-family: 'Yantramanav', sans-serif;
 }
- .topnav {
+
+html, body {
+  height: 100%;
+}
+
+#myTopnav {
     background-color: #000000;
     overflow: hidden;
+    position: fixed;
+    z-index: 1000;
+    width: 100%;
 }
-.topnav a {
+
+#myTopnav a {
     float: left;
     display: block;
     color: #ffffff;
@@ -14,10 +25,12 @@ html {
     padding: 14px 16px;
     font-size: 17px;
 }
-.topnav a:hover {
+
+#myTopnav a:hover {
   background-color: #ddd;
   color: black;
 }
+
 .active {
   background-color: #3d787c;
   color: white;
@@ -25,6 +38,11 @@ html {
 .topnav .icon {
   display: none;
 }
+
+#body {
+  padding: 60px 20px 0px 20px;
+}
+
 @media screen and (max-width: 600px) {
   .topnav a:not(:first-child) {display: none;}
   .topnav a.icon {
