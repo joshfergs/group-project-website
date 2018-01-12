@@ -14,6 +14,7 @@ WhiteIncome <- read.csv("WhiteIncome_byCounty.csv", header = T, sep = ",", skip 
 Education <- read.csv("Education_byCounty.csv", header = T, sep = ",", skip = 1, check.names = F, stringsAsFactors = F)
 Gini <- read.csv("Gini_byCounty.csv", header = T, sep = ",", skip = 1, check.names = F, stringsAsFactors = F)
 Employment <- read.csv("Employment_byCounty.csv",  header = T, sep = ",", skip = 1, check.names = F, stringsAsFactors = F)
+Density <- read.csv("Density_byCounty.csv",  header = T, sep = ",", skip = 1, check.names = F, stringsAsFactors = F)
 
 #Read data to convert from cities to counties (from https://simplemaps.com/data/us-cities)
 CityCounty <- read.csv("uscities.csv", header = T, sep = ",", stringsAsFactors = F, check.names = F)
@@ -104,6 +105,128 @@ Hate <- Hate %>% left_join(Education[,c(2,54)], by=c("county_fips"="Id2"))
 Hate$Total <- Hate$Race + Hate$Religion + Hate$Sexual_Orientation + Hate$Sexual_Orientation + Hate$Disability + Hate$Gender
 
 #Tidy up
-Test <- Hate[,c(1,13,3:9,18,10:12,14:17)]
+Hate <- Hate[,c(1,13,3:9,18,10:12,14:17)]
+Hate$Gender_both <- Hate$Gender + Hate$Gender_Identity
+Hate <- Hate[,c(1:9,18,10:17)]
+colnames(Hate)[15] <- "Gini"
 
-#Run Regressions
+#Merge with Density
+colnames(Density)[c(5,13)] <- c("county_fips", "Density")
+Hate <- Hate %>% left_join(Density[,c(5,13)], by="county_fips")
+
+
+
+
+# Create dataframe to save regression output
+Regressions <- data.frame(matrix(ncol = 8, nrow = 0))
+colnames(Regressions) <- c("Label", "Median_Income", "White Income", "White_Diff", "Gini", "LFPR", "Unemployment", "Education")
+
+#Create function to add significance to coefficients
+signif <- function(x) {
+  as.character(
+    symnum(coef(summary(x))[2,4], corr = FALSE, na = FALSE,
+         cutpoints = c(0, 0.001, 0.01, 0.05, 0.1, 1),
+         symbols = c("***", "**", "*", ".", " ")))
+}
+
+getCoef <- function(x) {
+  paste(substr(as.character(coef(x)[2]),1,6), signif(x), sep = "")
+}
+
+#### Run Regressions #################################################################
+
+#Total Hate Crimes
+Econ_TotalbyIncome <- lm(Total ~ scale(Median_Income) + scale(Density), data = Hate)
+Econ_TotalbyWhite <- lm(Total ~ scale(White_Income) + scale(Density), data = Hate)
+Econ_TotalbyWhiteDiff <- lm(Total ~ scale(White_Diff) + scale(Density), data = Hate)
+Econ_TotalbyGini <- lm(Total ~ scale(Gini) + scale(Density), data = Hate)
+Econ_TotalbyLFPR <- lm(Total ~ scale(LFPR) + scale(Density), data = Hate)
+Econ_TotalbyUnemployed <- lm(Total ~ scale(Unemployment) + scale(Density), data = Hate)
+Econ_TotalbySchooling <- lm(Total ~ scale(AvgYears) + scale(Density), data = Hate)
+
+#Add to Table
+Regressions[1,] <- c("Total", getCoef(Econ_TotalbyIncome), getCoef(Econ_TotalbyWhite), 
+                     getCoef(Econ_TotalbyWhiteDiff), getCoef(Econ_TotalbyGini), 
+                     getCoef(Econ_TotalbyLFPR), getCoef(Econ_TotalbyUnemployed), 
+                     getCoef(Econ_TotalbySchooling))
+
+#Race Hate Crimes
+Econ_RacebyIncome <- lm(Race ~ scale(Median_Income) + scale(Density), data = Hate)
+Econ_RacebyWhite <- lm(Race ~ scale(White_Income) + scale(Density), data = Hate)
+Econ_RacebyWhiteDiff <- lm(Race ~ scale(White_Diff) + scale(Density), data = Hate)
+Econ_RacebyGini <- lm(Race ~ scale(Gini) + scale(Density), data = Hate)
+Econ_RacebyLFPR <- lm(Race ~ scale(LFPR) + scale(Density), data = Hate)
+Econ_RacebyUnemployed <- lm(Race ~ scale(Unemployment) + scale(Density), data = Hate)
+Econ_RacebySchooling <- lm(Race ~ scale(AvgYears) + scale(Density), data = Hate)
+
+#Add to Table
+Regressions[2,] <- c("Race", getCoef(Econ_RacebyIncome), getCoef(Econ_RacebyWhite), 
+                     getCoef(Econ_RacebyWhiteDiff), getCoef(Econ_RacebyGini), 
+                     getCoef(Econ_RacebyLFPR), getCoef(Econ_RacebyUnemployed), 
+                     getCoef(Econ_RacebySchooling))
+
+#Religion Hate Crimes
+Econ_ReligionbyIncome <- lm(Religion ~ scale(Median_Income) + scale(Density), data = Hate)
+Econ_ReligionbyWhite <- lm(Religion ~ scale(White_Income) + scale(Density), data = Hate)
+Econ_ReligionbyWhiteDiff <- lm(Religion ~ scale(White_Diff) + scale(Density), data = Hate)
+Econ_ReligionbyGini <- lm(Religion ~ scale(Gini) + scale(Density), data = Hate)
+Econ_ReligionbyLFPR <- lm(Religion ~ scale(LFPR) + scale(Density), data = Hate)
+Econ_ReligionbyUnemployed <- lm(Religion ~ scale(Unemployment) + scale(Density), data = Hate)
+Econ_ReligionbySchooling <- lm(Religion ~ scale(AvgYears) + scale(Density), data = Hate)
+
+#Add to Table
+Regressions[3,] <- c("Religion", getCoef(Econ_ReligionbyIncome), getCoef(Econ_ReligionbyWhite), 
+                     getCoef(Econ_ReligionbyWhiteDiff), getCoef(Econ_ReligionbyGini), 
+                     getCoef(Econ_ReligionbyLFPR), getCoef(Econ_ReligionbyUnemployed), 
+                     getCoef(Econ_ReligionbySchooling))
+
+#Sexual_Orientation Hate Crimes
+Econ_Sexual_OrientationbyIncome <- lm(Sexual_Orientation ~ scale(Median_Income) + scale(Density), data = Hate)
+Econ_Sexual_OrientationbyWhite <- lm(Sexual_Orientation ~ scale(White_Income) + scale(Density), data = Hate)
+Econ_Sexual_OrientationbyWhiteDiff <- lm(Sexual_Orientation ~ scale(White_Diff) + scale(Density), data = Hate)
+Econ_Sexual_OrientationbyGini <- lm(Sexual_Orientation ~ scale(Gini) + scale(Density), data = Hate)
+Econ_Sexual_OrientationbyLFPR <- lm(Sexual_Orientation ~ scale(LFPR) + scale(Density), data = Hate)
+Econ_Sexual_OrientationbyUnemployed <- lm(Sexual_Orientation ~ scale(Unemployment) + scale(Density), data = Hate)
+Econ_Sexual_OrientationbySchooling <- lm(Sexual_Orientation ~ scale(AvgYears) + scale(Density), data = Hate)
+
+#Add to Table
+Regressions[4,] <- c("Sexual_Orientation", getCoef(Econ_Sexual_OrientationbyIncome), getCoef(Econ_Sexual_OrientationbyWhite), 
+                     getCoef(Econ_Sexual_OrientationbyWhiteDiff), getCoef(Econ_Sexual_OrientationbyGini), 
+                     getCoef(Econ_Sexual_OrientationbyLFPR), getCoef(Econ_Sexual_OrientationbyUnemployed), 
+                     getCoef(Econ_Sexual_OrientationbySchooling))
+
+#Disability Hate Crimes
+Econ_DisabilitybyIncome <- lm(Disability ~ scale(Median_Income) + scale(Density), data = Hate)
+Econ_DisabilitybyWhite <- lm(Disability ~ scale(White_Income) + scale(Density), data = Hate)
+Econ_DisabilitybyWhiteDiff <- lm(Disability ~ scale(White_Diff) + scale(Density), data = Hate)
+Econ_DisabilitybyGini <- lm(Disability ~ scale(Gini) + scale(Density), data = Hate)
+Econ_DisabilitybyLFPR <- lm(Disability ~ scale(LFPR) + scale(Density), data = Hate)
+Econ_DisabilitybyUnemployed <- lm(Disability ~ scale(Unemployment) + scale(Density), data = Hate)
+Econ_DisabilitybySchooling <- lm(Disability ~ scale(AvgYears) + scale(Density), data = Hate)
+
+#Add to Table
+Regressions[5,] <- c("Disability", getCoef(Econ_DisabilitybyIncome), getCoef(Econ_DisabilitybyWhite), 
+                     getCoef(Econ_DisabilitybyWhiteDiff), getCoef(Econ_DisabilitybyGini), 
+                     getCoef(Econ_DisabilitybyLFPR), getCoef(Econ_DisabilitybyUnemployed), 
+                     getCoef(Econ_DisabilitybySchooling))
+
+#Gender_both Hate Crimes
+Econ_Gender_bothbyIncome <- lm(Gender_both ~ scale(Median_Income) + scale(Density), data = Hate)
+Econ_Gender_bothbyWhite <- lm(Gender_both ~ scale(White_Income) + scale(Density), data = Hate)
+Econ_Gender_bothbyWhiteDiff <- lm(Gender_both ~ scale(White_Diff) + scale(Density), data = Hate)
+Econ_Gender_bothbyGini <- lm(Gender_both ~ scale(Gini) + scale(Density), data = Hate)
+Econ_Gender_bothbyLFPR <- lm(Gender_both ~ scale(LFPR) + scale(Density), data = Hate)
+Econ_Gender_bothbyUnemployed <- lm(Gender_both ~ scale(Unemployment) + scale(Density), data = Hate)
+Econ_Gender_bothbySchooling <- lm(Gender_both ~ scale(AvgYears) + scale(Density), data = Hate)
+
+#Add to Table
+Regressions[6,] <- c("Gender", getCoef(Econ_Gender_bothbyIncome), getCoef(Econ_Gender_bothbyWhite), 
+                     getCoef(Econ_Gender_bothbyWhiteDiff), getCoef(Econ_Gender_bothbyGini), 
+                     getCoef(Econ_Gender_bothbyLFPR), getCoef(Econ_Gender_bothbyUnemployed), 
+                     getCoef(Econ_Gender_bothbySchooling))
+
+
+
+### Export Results ################################################################
+write.csv(Hate, "Hate.csv", row.names = F)
+write.csv(Regressions, "Hate_Regressions.csv", row.names = F)
