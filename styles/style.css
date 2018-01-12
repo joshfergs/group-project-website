@@ -9,6 +9,11 @@ html, body {
   height: 100%;
 }
 
+h1 {
+  font-size: 130px;
+  color: white;
+}
+
 #title { 
   background: url(https://online.annamaria.edu/sites/amc/files/amc_mpa-criminal-justice-specialization-header_1020x232.png); 
   background-size: cover;
