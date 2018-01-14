@@ -10,11 +10,33 @@ html, body {
 }
 
 h1 {
-  font-size: 130px;
+  font-size: 90px;
   color: white;
 }
 
+.hed {
+  font-size: 18px;
+  text-align: center;
+}
+
+.dek {
+  color: #737373;
+  text-align: center;
+}
+
+.viz {
+  margin: auto;
+  width: 960px;
+}
+
+.chart-note, .source, .template {
+  font-size: 10px;
+}
+
 #title { 
+  padding-top: 50px;
+  height: 350px;
+  width: 100%;
   background: url(https://online.annamaria.edu/sites/amc/files/amc_mpa-criminal-justice-specialization-header_1020x232.png); 
   background-size: cover;
   background-position: center center;
@@ -26,7 +48,7 @@ h1 {
     position: fixed;
     z-index: 1000;
     width: 100%;
-    min-width: 1000px;
+    min-width: 960px;
 }
 
 #myTopnav a {
@@ -51,8 +73,8 @@ h1 {
   display: none;
 }
 
-#body {
-  padding: 60px 20px 0px 20px;
+#content {
+  padding: 0px 20px 0px 20px;
 }
 
 @media screen and (max-width: 600px) {

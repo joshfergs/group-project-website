@@ -1,0 +1,727 @@
+State,Geography,county_fips,Race,Religion,Sexual_Orientation,Disability,Gender,Gender_Identity,Gender_both,Total,Total crimes,% hate crime,AvgYears,Education Quintile
+Texas,"Zavala County, Texas",48507,1,0,0,0,0,0,0,1,251,0.40%,12.91664259,Lowest
+Texas,"Hidalgo County, Texas",48215,1,0,1,0,0,0,0,3,30723,0.01%,13.23588611,Lowest
+California,"Tulare County, California",6107,0,1,0,0,0,0,0,1,13301,0.01%,13.42752348,Lowest
+Florida,"DeSoto County, Florida",12027,1,0,0,0,0,0,0,1,1109,0.09%,13.45293204,Lowest
+California,"Merced County, California",6047,0,0,1,0,0,1,1,2,8611,0.02%,13.49609111,Lowest
+Arkansas,"Sevier County, Arkansas",5133,2,0,0,0,0,0,0,2,402,0.50%,13.67399887,Lowest
+Washington,"Yakima County, Washington",53077,7,1,1,0,0,0,0,10,8833,0.11%,13.87917634,Lowest
+Kentucky,"Wolfe County, Kentucky",21237,1,0,0,0,0,0,0,1,69,1.45%,13.88202471,Lowest
+Washington,"Franklin County, Washington",53021,1,0,0,0,0,0,0,1,1862,0.05%,13.90142313,Lowest
+Kansas,"Ford County, Kansas",20057,2,0,0,1,0,0,0,3,1036,0.29%,13.95315813,Lowest
+Kentucky,"McCreary County, Kentucky",21147,1,0,0,0,0,0,0,1,105,0.95%,13.97744851,Lowest
+Texas,"Floyd County, Texas",48153,1,0,0,0,0,0,0,1,125,0.80%,13.9854703,Lowest
+Arizona,"Yuma County, Arizona",4027,2,1,1,0,0,0,0,5,6008,0.08%,14.01868996,Lowest
+Louisiana,"Avoyelles Parish, Louisiana",22009,1,0,0,0,0,0,0,1,1401,0.07%,14.05436379,Lowest
+California,"Kings County, California",6031,0,1,0,0,0,0,0,1,4171,0.02%,14.06991712,Lowest
+Kentucky,"Harlan County, Kentucky",21095,1,0,0,0,0,0,0,1,182,0.55%,14.07699047,Lowest
+California,"Kern County, California",6029,9,0,0,0,0,0,0,9,32748,0.03%,14.07995698,Lowest
+Kansas,"Finney County, Kansas",20055,0,0,1,0,0,0,0,2,1234,0.16%,14.09055465,Lowest
+Arizona,"Apache County, Arizona",4001,0,0,1,0,0,0,0,2,510,0.39%,14.09505921,Lowest
+California,"Monterey County, California",6053,2,1,0,0,0,0,0,3,12410,0.02%,14.10089983,Lowest
+California,"Fresno County, California",6019,9,3,6,0,0,0,0,24,37082,0.06%,14.11968691,Lowest
+Texas,"Atascosa County, Texas",48013,1,0,0,0,0,0,0,1,1445,0.07%,14.15355955,Lowest
+Oregon,"Morrow County, Oregon",41049,1,1,0,0,0,0,0,2,244,0.82%,14.19302987,Lowest
+Louisiana,"Lafourche Parish, Louisiana",22057,1,0,0,0,0,0,0,1,2453,0.04%,14.20742563,Lowest
+Kentucky,"Todd County, Kentucky",21219,0,1,0,0,0,0,0,1,148,0.68%,14.21145756,Lowest
+Tennessee,"Fentress County, Tennessee",47049,7,0,0,0,0,0,0,7,460,1.52%,14.22779007,Lowest
+North Carolina,"Sampson County, North Carolina",37163,2,0,0,0,0,0,0,2,1707,0.12%,14.22801035,Lowest
+Tennessee,"Cocke County, Tennessee",47029,1,0,0,0,0,0,0,1,1495,0.07%,14.24806877,Lowest
+New Jersey,"Cumberland County, New Jersey",34011,2,2,0,0,0,0,0,4,6939,0.06%,14.24856699,Lowest
+Kentucky,"Powell County, Kentucky",21197,0,1,0,0,0,0,0,1,174,0.57%,14.250659,Lowest
+Texas,"Shelby County, Texas",48419,0,0,0,0,1,0,1,1,584,0.17%,14.26560117,Lowest
+Louisiana,"Madison Parish, Louisiana",22065,1,0,0,0,0,0,0,1,460,0.22%,14.26740588,Lowest
+Tennessee,"Overton County, Tennessee",47133,1,0,0,0,0,0,0,1,379,0.26%,14.27785357,Lowest
+South Carolina,"Chesterfield County, South Carolina",45025,1,0,0,0,0,0,0,1,1649,0.06%,14.27908087,Lowest
+Kentucky,"Letcher County, Kentucky",21133,1,0,0,0,0,0,0,1,108,0.93%,14.30881198,Lowest
+California,"Stanislaus County, California",6099,9,4,1,0,0,0,0,15,21385,0.07%,14.33073587,Lowest
+Texas,"Ector County, Texas",48135,2,1,0,0,0,0,0,3,7375,0.04%,14.34564752,Lowest
+Virginia,"Grayson County, Virginia",51077,1,0,0,0,0,0,0,1,174,0.57%,14.35610694,Lowest
+North Carolina,"Edgecombe County, North Carolina",37065,1,0,0,0,0,0,0,1,2071,0.05%,14.36516338,Lowest
+North Carolina,"Halifax County, North Carolina",37083,5,0,0,0,0,0,0,5,2350,0.21%,14.3745783,Lowest
+Kentucky,"Breckinridge County, Kentucky",21027,1,0,0,0,0,0,0,1,65,1.54%,14.37571212,Lowest
+Tennessee,"Marion County, Tennessee",47115,0,0,1,0,0,0,0,2,578,0.35%,14.38133663,Lowest
+Tennessee,"Lawrence County, Tennessee",47099,0,1,0,0,0,0,0,1,1264,0.08%,14.38576989,Lowest
+Texas,"El Paso County, Texas",48141,0,0,1,0,0,0,0,2,20101,0.01%,14.39798155,Lowest
+California,"Sutter County, California",6101,1,0,0,0,0,0,0,1,2680,0.04%,14.41004423,Lowest
+South Carolina,"Barnwell County, South Carolina",45011,0,1,0,0,0,0,0,1,996,0.10%,14.41159663,Lowest
+Ohio,"Pike County, Ohio",39131,1,0,0,0,0,0,0,1,362,0.28%,14.41256632,Lowest
+Virginia,"Amelia County, Virginia",51007,1,0,0,0,0,0,0,1,130,0.77%,14.41920663,Lowest
+Texas,"San Jacinto County, Texas",48407,1,0,0,0,0,0,0,1,613,0.16%,14.42656827,Lowest
+California,"San Benito County, California",6069,0,0,1,0,0,0,0,2,932,0.21%,14.42808434,Lowest
+Texas,"Hockley County, Texas",48219,2,0,0,0,0,0,0,2,711,0.28%,14.43111298,Lowest
+Tennessee,"DeKalb County, Tennessee",47041,2,0,0,0,0,0,0,2,447,0.45%,14.43248518,Lowest
+California,"San Joaquin County, California",6077,7,0,0,1,0,0,0,8,30438,0.03%,14.4341185,Lowest
+Kansas,"Wyandotte County, Kansas",20209,1,0,0,0,0,0,0,1,9079,0.01%,14.44376915,Lowest
+North Carolina,"Yadkin County, North Carolina",37197,1,1,0,0,0,0,0,2,952,0.21%,14.507351,Lowest
+Nebraska,"Saline County, Nebraska",31151,2,0,0,0,0,0,0,2,290,0.69%,14.5312144,Lowest
+Texas,"Polk County, Texas",48373,1,0,0,0,0,0,0,1,1236,0.08%,14.53480908,Lowest
+Kentucky,"Pendleton County, Kentucky",21191,0,1,0,0,0,0,0,1,137,0.73%,14.53991365,Lowest
+North Carolina,"Richmond County, North Carolina",37153,1,0,0,0,0,0,0,1,2600,0.04%,14.54825676,Lowest
+Kentucky,"Harrison County, Kentucky",21097,1,0,0,0,0,0,0,1,448,0.22%,14.55126904,Lowest
+Kentucky,"Garrard County, Kentucky",21079,1,0,0,0,0,0,0,1,177,0.56%,14.5782392,Lowest
+Tennessee,"Hamblen County, Tennessee",47063,2,0,0,0,0,0,0,2,2242,0.09%,14.59251406,Lowest
+North Carolina,"Surry County, North Carolina",37171,1,0,0,0,0,0,0,1,2423,0.04%,14.59865458,Lowest
+Kentucky,"Barren County, Kentucky",21009,2,0,1,0,0,0,0,4,701,0.57%,14.61888088,Lowest
+South Carolina,"Abbeville County, South Carolina",45001,1,0,0,0,0,0,0,1,642,0.16%,14.6201909,Lowest
+West Virginia,"Barbour County, West Virginia",54001,1,0,0,0,0,0,0,1,73,1.37%,14.628847,Lowest
+South Carolina,"Chester County, South Carolina",45023,1,0,0,0,0,0,0,1,1245,0.08%,14.63073043,Lowest
+North Carolina,"Randolph County, North Carolina",37151,0,1,0,0,0,0,0,1,4736,0.02%,14.63143317,Lowest
+Kentucky,"Bracken County, Kentucky",21023,0,0,0,1,0,0,0,1,103,0.97%,14.65795016,Lowest
+West Virginia,"Fayette County, West Virginia",54019,4,0,0,0,0,0,0,4,1039,0.38%,14.66973863,Lowest
+Virginia,"Accomack County, Virginia",51001,0,0,0,2,0,0,0,2,563,0.36%,14.67140461,Lowest
+Texas,"Anderson County, Texas",48001,1,0,0,0,0,0,0,1,1376,0.07%,14.67527067,Lowest
+North Carolina,"Burke County, North Carolina",37023,4,0,0,0,0,0,0,4,2278,0.18%,14.67829844,Lowest
+California,"San Bernardino County, California",6071,27,3,7,0,0,1,1,44,63059,0.07%,14.68992386,Lowest
+Tennessee,"Dickson County, Tennessee",47043,2,0,0,0,0,0,0,2,1559,0.13%,14.70922882,Lowest
+South Carolina,"Darlington County, South Carolina",45031,0,0,1,0,0,0,0,2,3797,0.05%,14.71172958,Lowest
+Ohio,"Gallia County, Ohio",39053,1,0,0,0,0,0,0,1,1067,0.09%,14.71762992,Lowest
+North Carolina,"Wilson County, North Carolina",37195,0,0,1,0,0,0,0,2,2966,0.07%,14.71793147,Lowest
+Ohio,"Highland County, Ohio",39071,1,0,0,0,0,0,0,1,844,0.12%,14.72119658,Lowest
+West Virginia,"Mason County, West Virginia",54053,3,0,0,0,0,0,0,3,417,0.72%,14.72283837,Lowest
+Texas,"Freestone County, Texas",48161,1,0,0,0,0,0,0,1,268,0.37%,14.72368902,Lowest
+Oklahoma,"Le Flore County, Oklahoma",40079,0,0,1,0,0,0,0,2,1209,0.17%,14.72698261,Lowest
+Texas,"Austin County, Texas",48015,1,0,0,0,0,0,0,1,541,0.18%,14.73994406,Lowest
+Oklahoma,"Nowata County, Oklahoma",40105,0,1,0,0,0,0,0,1,137,0.73%,14.7494466,Lowest
+Oklahoma,"Garvin County, Oklahoma",40049,1,0,0,0,0,0,0,1,683,0.15%,14.75289072,Lowest
+Michigan,"Clare County, Michigan",26035,1,0,0,0,0,0,0,1,695,0.14%,14.76229471,Lowest
+Louisiana,"St. John the Baptist Parish, Louisiana",22095,4,0,1,0,0,0,0,6,1379,0.44%,14.78616001,Lowest
+Kentucky,"Simpson County, Kentucky",21213,2,0,0,0,0,0,0,2,459,0.44%,14.79283719,Lowest
+California,"Riverside County, California",6065,15,2,5,0,1,1,2,28,67694,0.04%,14.80026428,Lowest
+Virginia,"Covington city, Virginia",51580,0,1,0,0,0,0,0,1,125,0.80%,14.80443651,Lowest
+Kentucky,"Graves County, Kentucky",21083,2,0,0,0,0,0,0,2,589,0.34%,14.80683747,Lowest
+West Virginia,"Upshur County, West Virginia",54097,1,0,0,0,0,0,0,1,310,0.32%,14.81540313,Lowest
+California,"Los Angeles County, California",6037,181,65,87,0,1,17,18,421,260218,0.16%,14.81766976,Lowest
+Kentucky,"Mason County, Kentucky",21161,1,0,0,0,0,0,0,1,467,0.21%,14.82252995,Lowest
+Ohio,"Ashtabula County, Ohio",39007,1,0,0,0,0,0,0,1,1441,0.07%,14.82334302,Lowest
+Oregon,"Umatilla County, Oregon",41059,0,1,1,1,0,0,0,4,2054,0.19%,14.82757576,Lowest
+Texas,"Upshur County, Texas",48459,1,0,0,0,0,0,0,1,1154,0.09%,14.83515308,Lowest
+Michigan,"Newaygo County, Michigan",26123,3,0,0,0,0,0,0,3,931,0.32%,14.84726129,Lowest
+Texas,"Jefferson County, Texas",48245,4,0,0,0,0,0,0,4,10924,0.04%,14.85295103,Lowest
+Oklahoma,"Seminole County, Oklahoma",40133,0,0,1,0,0,0,0,2,633,0.32%,14.85415288,Lowest
+Ohio,"Fayette County, Ohio",39047,0,1,0,0,0,0,0,1,1183,0.08%,14.86303873,Lowest
+Ohio,"Scioto County, Ohio",39145,1,0,0,0,0,0,0,1,2871,0.03%,14.86378525,Lowest
+Nebraska,"Hall County, Nebraska",31079,2,0,0,0,0,0,0,2,2620,0.08%,14.86538314,Lowest
+Idaho,"Canyon County, Idaho",16027,4,0,1,0,0,0,0,6,5053,0.12%,14.86717421,Lowest
+Ohio,"Lawrence County, Ohio",39087,1,0,0,0,0,0,0,1,1596,0.06%,14.87949556,Lowest
+Tennessee,"Dyer County, Tennessee",47045,1,0,0,0,0,0,0,1,2006,0.05%,14.88145944,Lowest
+New Mexico,"Valencia County, New Mexico",35061,1,0,0,0,0,0,0,1,3199,0.03%,14.88299204,Lowest
+Idaho,"Bingham County, Idaho",16011,0,0,1,0,0,0,0,2,655,0.31%,14.88672972,Lowest
+Arkansas,"Sebastian County, Arkansas",5131,6,1,0,0,0,0,0,7,5896,0.12%,14.88687972,Lowest
+South Carolina,"Colleton County, South Carolina",45029,1,0,0,0,0,0,0,1,1859,0.05%,14.88719208,Lowest
+Michigan,"St. Joseph County, Michigan",26149,1,0,0,0,0,0,0,1,1240,0.08%,14.89092519,Lowest
+Kentucky,"Hopkins County, Kentucky",21107,2,2,0,0,0,0,0,4,854,0.47%,14.89164,Lowest
+Ohio,"Ross County, Ohio",39141,2,0,0,0,0,0,0,2,3245,0.06%,14.89629616,Lowest
+Texas,"Dallas County, Texas",48113,9,2,2,0,0,0,0,15,93245,0.02%,14.89720758,Lowest
+Mississippi,"Stone County, Mississippi",28131,1,0,0,0,0,0,0,1,306,0.33%,14.90011751,Lowest
+Oklahoma,"Caddo County, Oklahoma",40015,1,0,0,0,0,0,0,1,596,0.17%,14.90217224,Lowest
+California,"Yuba County, California",6115,1,0,1,0,0,0,0,3,2431,0.12%,14.90295912,Lowest
+Michigan,"Osceola County, Michigan",26133,1,0,0,0,0,0,0,1,335,0.30%,14.90344569,Lowest
+New Jersey,"Passaic County, New Jersey",34031,3,0,0,0,0,0,0,3,11239,0.03%,14.90798951,Lowest
+Missouri,"Lawrence County, Missouri",29109,1,0,0,0,0,0,0,1,1112,0.09%,14.9091408,Lowest
+Texas,"Johnson County, Texas",48251,1,0,0,0,0,0,0,1,3126,0.03%,14.91291001,Lowest
+Kentucky,"Bourbon County, Kentucky",21017,0,1,0,0,0,0,0,1,381,0.26%,14.91764536,Lowest
+Texas,"Lamar County, Texas",48277,0,1,0,0,0,0,0,1,1673,0.06%,14.92071352,Lowest
+Virginia,"Alleghany County, Virginia",51005,1,0,0,0,0,0,0,1,207,0.48%,14.92192833,Lowest
+Ohio,"Darke County, Ohio",39037,1,0,0,0,0,0,0,1,691,0.14%,14.92261536,Lowest
+Virginia,"Manassas city, Virginia",51683,1,0,0,0,0,0,0,1,866,0.12%,14.9229127,Lowest
+Oregon,"Hood River County, Oregon",41027,0,2,0,0,0,0,0,2,430,0.47%,14.93192488,Lowest
+Michigan,"Sanilac County, Michigan",26151,1,0,0,0,0,0,0,1,519,0.19%,14.93585627,Lowest
+Tennessee,"Sevier County, Tennessee",47155,3,1,0,0,0,0,0,4,3077,0.13%,14.93849593,Lowest
+Florida,"Miami-Dade County, Florida",12086,2,7,14,1,0,0,0,38,122865,0.03%,14.94669432,Lowest
+Tennessee,"Gibson County, Tennessee",47053,2,0,0,0,0,0,0,2,1568,0.13%,14.94920852,Lowest
+Ohio,"Wyandot County, Ohio",39175,1,0,0,0,0,0,0,1,273,0.37%,14.95089199,Lowest
+Michigan,"Branch County, Michigan",26023,1,0,0,0,0,0,0,1,715,0.14%,14.95341605,Lowest
+Oklahoma,"Lincoln County, Oklahoma",40081,1,0,0,0,0,0,0,1,635,0.16%,14.9568686,Lowest
+West Virginia,"Raleigh County, West Virginia",54081,1,0,0,0,0,0,0,1,3167,0.03%,14.958159,Lowest
+Michigan,"Montcalm County, Michigan",26117,1,0,1,0,0,0,0,3,1194,0.25%,14.96555787,Lowest
+Texas,"Tom Green County, Texas",48451,0,0,1,0,0,0,0,2,4603,0.04%,14.96645852,Lowest
+Virginia,"Shenandoah County, Virginia",51171,2,0,0,0,0,0,0,2,602,0.33%,14.96689794,Lowest
+Wisconsin,"Rusk County, Wisconsin",55107,1,0,0,0,0,0,0,1,195,0.51%,14.9687652,Lowest
+Colorado,"Adams County, Colorado",8001,1,0,0,0,0,0,0,1,15453,0.01%,14.96901245,Lowest
+Ohio,"Columbiana County, Ohio",39029,2,0,0,4,0,0,0,6,734,0.82%,14.97320847,Lowest
+Oklahoma,"Craig County, Oklahoma",40035,0,0,0,1,0,0,0,1,222,0.45%,14.97340218,Lowest
+Tennessee,"Tipton County, Tennessee",47167,0,1,0,1,0,0,0,2,2003,0.10%,14.97440544,Lowest
+Michigan,"Huron County, Michigan",26063,1,0,0,0,0,0,0,1,376,0.27%,14.98060812,Lowest
+Michigan,"Luce County, Michigan",26095,0,0,0,1,0,0,0,1,136,0.74%,14.98291294,Second
+Kentucky,"Bullitt County, Kentucky",21029,7,0,0,0,0,0,0,7,1186,0.59%,14.99419853,Second
+Texas,"Harris County, Texas",48201,5,2,2,0,0,2,2,11,200021,0.01%,14.99849674,Second
+Ohio,"Williams County, Ohio",39171,1,0,0,0,0,0,0,1,457,0.22%,15.0049284,Second
+North Carolina,"Rowan County, North Carolina",37159,3,0,0,0,0,0,0,3,3891,0.08%,15.00824808,Second
+Ohio,"Muskingum County, Ohio",39119,1,0,2,0,0,0,0,5,2792,0.18%,15.00910546,Second
+South Dakota,"Jerauld County, South Dakota",46073,0,0,0,0,0,1,1,0,2,0.00%,15.01428571,Second
+Tennessee,"Franklin County, Tennessee",47051,0,0,0,1,0,0,0,1,806,0.12%,15.01470745,Second
+Ohio,"Logan County, Ohio",39091,1,0,1,0,0,0,0,3,1116,0.27%,15.01531418,Second
+Kentucky,"Marshall County, Kentucky",21157,0,1,1,0,0,0,0,3,456,0.66%,15.01554427,Second
+Florida,"Osceola County, Florida",12097,1,0,0,0,0,0,0,1,9492,0.01%,15.01679668,Second
+Idaho,"Elmore County, Idaho",16039,1,0,0,0,0,0,0,1,371,0.27%,15.01729161,Second
+Idaho,"Benewah County, Idaho",16009,1,0,0,0,0,0,0,1,141,0.71%,15.01865496,Second
+Ohio,"Madison County, Ohio",39097,0,0,0,1,0,0,0,1,799,0.13%,15.02099131,Second
+Michigan,"Tuscola County, Michigan",26157,2,1,1,0,1,0,1,6,634,0.95%,15.02394817,Second
+California,"Lake County, California",6033,2,0,0,0,0,0,0,2,2139,0.09%,15.03085111,Second
+Ohio,"Pickaway County, Ohio",39129,1,0,0,0,0,0,0,1,1501,0.07%,15.03468001,Second
+Virginia,"Louisa County, Virginia",51109,1,0,1,0,0,0,0,3,700,0.43%,15.03728443,Second
+Michigan,"Gratiot County, Michigan",26057,2,0,0,0,0,0,0,2,657,0.30%,15.04044586,Second
+Kentucky,"Clark County, Kentucky",21049,3,0,0,0,0,0,0,3,1160,0.26%,15.04183179,Second
+Oregon,"Jefferson County, Oregon",41031,0,0,1,0,0,0,0,2,621,0.32%,15.04429245,Second
+Michigan,"Oceana County, Michigan",26127,2,0,1,0,0,0,0,4,566,0.71%,15.04568927,Second
+Idaho,"Payette County, Idaho",16075,0,1,0,0,0,0,0,1,358,0.28%,15.04821067,Second
+North Dakota,"Hettinger County, North Dakota",38041,1,0,0,0,0,0,0,1,41,2.44%,15.04920554,Second
+Ohio,"Champaign County, Ohio",39021,10,0,0,0,0,0,0,10,759,1.32%,15.05017854,Second
+Oklahoma,"Delaware County, Oklahoma",40041,2,0,0,1,0,0,0,3,466,0.64%,15.0506726,Second
+West Virginia,"Marshall County, West Virginia",54051,1,0,0,0,0,0,0,1,571,0.18%,15.05518423,Second
+Texas,"Hutchinson County, Texas",48233,1,0,0,0,0,0,0,1,707,0.14%,15.05629326,Second
+Tennessee,"Roane County, Tennessee",47145,0,0,1,0,0,0,0,2,1421,0.14%,15.05979929,Second
+North Carolina,"Gaston County, North Carolina",37071,3,0,0,0,0,0,0,3,6609,0.05%,15.06173598,Second
+Tennessee,"Bradley County, Tennessee",47011,6,0,1,0,0,0,0,8,4318,0.19%,15.07270495,Second
+Ohio,"Richland County, Ohio",39139,2,2,1,0,0,0,0,6,5729,0.10%,15.08028854,Second
+Massachusetts,"Bristol County, Massachusetts",25005,4,0,1,0,1,0,1,7,14496,0.05%,15.08407654,Second
+Ohio,"Trumbull County, Ohio",39155,3,0,0,1,0,0,0,4,5160,0.08%,15.08676135,Second
+Tennessee,"Robertson County, Tennessee",47147,1,0,1,0,0,0,0,3,1777,0.17%,15.08773544,Second
+Michigan,"Ionia County, Michigan",26067,1,0,0,0,0,0,0,1,1007,0.10%,15.08806674,Second
+Texas,"Gregg County, Texas",48183,2,0,0,1,0,0,0,3,5349,0.06%,15.08838435,Second
+Florida,"St. Lucie County, Florida",12111,0,1,0,0,0,0,0,1,7045,0.01%,15.09305155,Second
+Ohio,"Wayne County, Ohio",39169,1,0,0,0,0,0,0,1,1963,0.05%,15.09562322,Second
+Utah,"Duchesne County, Utah",49013,0,0,1,0,0,0,0,2,628,0.32%,15.09679392,Second
+Michigan,"Hillsdale County, Michigan",26059,1,0,0,0,0,0,0,1,577,0.17%,15.09845622,Second
+Ohio,"Clinton County, Ohio",39027,1,1,0,0,0,0,0,2,839,0.24%,15.10243938,Second
+West Virginia,"Hancock County, West Virginia",54029,2,0,0,0,0,0,0,2,337,0.59%,15.10313901,Second
+South Carolina,"Sumter County, South Carolina",45085,0,0,1,0,0,0,0,2,4816,0.04%,15.10663903,Second
+Ohio,"Ashland County, Ohio",39005,1,0,0,0,0,0,0,1,845,0.12%,15.11060653,Second
+North Carolina,"Franklin County, North Carolina",37069,4,0,0,0,0,0,0,4,1191,0.34%,15.11244496,Second
+Indiana,"Dubois County, Indiana",18037,0,0,0,0,1,0,1,1,349,0.29%,15.11287725,Second
+North Carolina,"Catawba County, North Carolina",37035,1,0,0,0,0,0,0,1,4841,0.02%,15.11361527,Second
+Oklahoma,"Okmulgee County, Oklahoma",40111,1,0,0,0,0,0,0,1,964,0.10%,15.1169232,Second
+Arizona,"Pinal County, Arizona",4021,2,0,0,0,0,0,0,2,8319,0.02%,15.12228704,Second
+California,"Santa Barbara County, California",6083,1,0,1,0,0,0,0,3,10382,0.03%,15.12588631,Second
+Kentucky,"Christian County, Kentucky",21047,6,0,0,0,0,0,0,6,1873,0.32%,15.12801661,Second
+South Carolina,"Anderson County, South Carolina",45007,1,0,0,0,0,0,0,1,10793,0.01%,15.12845752,Second
+Oregon,"Marion County, Oregon",41047,4,2,3,0,0,0,0,12,11429,0.10%,15.13386373,Second
+Pennsylvania,"Berks County, Pennsylvania",42011,2,0,0,0,0,0,0,2,8699,0.02%,15.13630691,Second
+Kentucky,"Henderson County, Kentucky",21101,2,0,0,0,0,0,0,2,1344,0.15%,15.13805293,Second
+Pennsylvania,"Philadelphia County, Pennsylvania",42101,7,4,7,0,0,0,0,25,68761,0.04%,15.13840012,Second
+Ohio,"Defiance County, Ohio",39039,1,0,0,0,0,0,0,1,645,0.16%,15.14377342,Second
+Ohio,"Jefferson County, Ohio",39081,1,0,0,0,0,0,0,1,240,0.42%,15.14440494,Second
+Louisiana,"Calcasieu Parish, Louisiana",22019,1,0,0,0,0,0,0,1,10324,0.01%,15.14493573,Second
+Virginia,"Warren County, Virginia",51187,1,0,2,0,0,0,0,5,811,0.62%,15.14721137,Second
+Virginia,"Franklin County, Virginia",51067,1,1,0,0,0,0,0,2,736,0.27%,15.14938632,Second
+Rhode Island,"Providence County, Rhode Island",44007,1,2,1,0,0,0,0,5,17406,0.03%,15.15027097,Second
+Pennsylvania,"Lancaster County, Pennsylvania",42071,1,0,0,0,0,0,0,1,9261,0.01%,15.15101144,Second
+Nevada,"Clark County, Nevada",32003,12,2,1,0,0,0,0,16,72994,0.02%,15.1533226,Second
+Washington,"Lewis County, Washington",53041,5,1,0,0,0,0,0,6,2135,0.28%,15.15336451,Second
+Michigan,"Wexford County, Michigan",26165,1,0,0,0,0,0,0,1,908,0.11%,15.15372732,Second
+Indiana,"Madison County, Indiana",18095,0,0,1,0,0,0,0,2,3375,0.06%,15.15542055,Second
+Illinois,"Whiteside County, Illinois",17195,0,0,1,0,0,0,0,2,986,0.20%,15.15853965,Second
+Oregon,"Crook County, Oregon",41013,1,0,1,0,0,0,0,3,536,0.56%,15.16058946,Second
+Illinois,"Kankakee County, Illinois",17091,3,0,0,0,0,0,0,3,3000,0.10%,15.16475963,Second
+Michigan,"Van Buren County, Michigan",26159,3,0,1,0,0,0,0,5,1471,0.34%,15.16649968,Second
+Indiana,"LaPorte County, Indiana",18091,2,0,1,0,0,0,0,4,2783,0.14%,15.16694569,Second
+Kentucky,"Nelson County, Kentucky",21179,1,0,0,0,0,0,0,1,596,0.17%,15.16796325,Second
+Tennessee,"Sullivan County, Tennessee",47163,3,0,1,0,0,0,0,5,5451,0.09%,15.1712313,Second
+Ohio,"Mercer County, Ohio",39107,0,1,0,0,0,0,0,1,625,0.16%,15.17281947,Second
+Tennessee,"Fayette County, Tennessee",47047,2,0,0,0,0,0,0,2,681,0.29%,15.17423758,Second
+Oklahoma,"Woodward County, Oklahoma",40153,1,0,1,0,0,0,0,3,583,0.51%,15.17426215,Second
+Missouri,"Buchanan County, Missouri",29021,0,0,1,0,0,0,0,2,4962,0.04%,15.1761471,Second
+Illinois,"Marion County, Illinois",17121,2,0,0,0,0,0,0,2,1074,0.19%,15.17681181,Second
+Alabama,"Lauderdale County, Alabama",1077,1,0,0,0,0,0,0,1,2270,0.04%,15.18369545,Second
+Minnesota,"Morrison County, Minnesota",27097,1,0,0,0,0,0,0,1,411,0.24%,15.18726575,Second
+New York,"Chenango County, New York",36017,2,0,0,0,0,0,0,2,941,0.21%,15.19269754,Second
+Michigan,"Menominee County, Michigan",26109,3,0,0,0,0,0,0,3,448,0.67%,15.19726201,Second
+South Carolina,"Florence County, South Carolina",45041,0,0,1,0,0,0,0,2,6488,0.03%,15.19819371,Second
+Texas,"Bexar County, Texas",48029,7,2,1,1,0,0,0,12,97028,0.01%,15.19968166,Second
+Illinois,"Warren County, Illinois",17187,1,0,0,0,0,0,0,1,296,0.34%,15.20093458,Second
+Ohio,"Henry County, Ohio",39069,2,0,2,0,0,0,0,6,505,1.19%,15.2029168,Second
+Ohio,"Clark County, Ohio",39023,0,1,1,0,0,0,0,3,6162,0.05%,15.20596848,Second
+Ohio,"Shelby County, Ohio",39149,2,0,1,0,0,0,0,4,1172,0.34%,15.20603077,Second
+New York,"Oswego County, New York",36075,1,0,0,0,0,0,0,1,2640,0.04%,15.208861,Second
+Kansas,"Linn County, Kansas",20107,1,0,0,0,0,0,0,1,115,0.87%,15.20966054,Second
+Kentucky,"Anderson County, Kentucky",21005,1,0,0,0,0,0,0,1,166,0.60%,15.21462926,Second
+Kentucky,"Shelby County, Kentucky",21211,3,1,0,0,0,0,0,4,847,0.47%,15.21540083,Second
+Louisiana,"St. Charles Parish, Louisiana",22089,6,0,0,0,0,0,0,6,1202,0.50%,15.21558232,Second
+Washington,"Grays Harbor County, Washington",53027,2,0,1,0,0,0,0,4,2206,0.18%,15.21560211,Second
+Indiana,"Lake County, Indiana",18089,0,1,0,0,0,0,0,1,17274,0.01%,15.21566344,Second
+Colorado,"Logan County, Colorado",8075,1,0,0,0,0,0,0,1,604,0.17%,15.21887564,Second
+Colorado,"Fremont County, Colorado",8043,1,0,0,0,0,0,0,1,907,0.11%,15.22073275,Second
+Oklahoma,"Kingfisher County, Oklahoma",40073,1,0,0,0,0,0,0,1,215,0.47%,15.2214243,Second
+Texas,"Smith County, Texas",48423,2,0,1,1,0,0,0,5,7096,0.07%,15.22236516,Second
+Texas,"Wichita County, Texas",48485,1,1,0,0,0,0,0,2,5317,0.04%,15.22365512,Second
+Pennsylvania,"Cambria County, Pennsylvania",42021,1,0,0,0,0,0,0,1,2707,0.04%,15.23169317,Second
+New Jersey,"Atlantic County, New Jersey",34001,3,4,0,0,0,0,0,7,9184,0.08%,15.23684126,Second
+Tennessee,"Maury County, Tennessee",47119,2,0,0,0,0,0,0,2,2321,0.09%,15.23763538,Second
+West Virginia,"Brooke County, West Virginia",54009,1,0,0,0,0,0,0,1,302,0.33%,15.2413179,Second
+Idaho,"Twin Falls County, Idaho",16083,2,0,0,0,0,0,0,2,1994,0.10%,15.24372202,Second
+Minnesota,"Mille Lacs County, Minnesota",27095,1,0,0,0,0,0,0,1,841,0.12%,15.24519149,Second
+Virginia,"Washington County, Virginia",51191,2,0,0,0,0,0,0,2,1101,0.18%,15.24693965,Second
+West Virginia,"Berkeley County, West Virginia",54003,1,0,0,0,0,0,0,1,2062,0.05%,15.24959947,Second
+Washington,"Cowlitz County, Washington",53015,7,3,2,0,0,0,0,14,3982,0.35%,15.25009172,Second
+Washington,"Mason County, Washington",53045,0,1,0,0,0,0,0,1,2201,0.05%,15.25091747,Second
+Montana,"Big Horn County, Montana",30003,2,0,2,0,0,0,0,6,0,#DIV/0!,15.25169165,Second
+Colorado,"Delta County, Colorado",8029,0,0,1,0,0,0,0,2,577,0.35%,15.25748173,Second
+Missouri,"Polk County, Missouri",29167,0,1,0,0,0,0,0,1,1021,0.10%,15.26162732,Second
+Tennessee,"Loudon County, Tennessee",47105,1,0,0,0,0,0,0,1,1146,0.09%,15.26237104,Second
+Wisconsin,"Manitowoc County, Wisconsin",55071,1,0,0,0,0,0,0,1,1594,0.06%,15.27002962,Second
+Michigan,"Wayne County, Michigan",26163,58,13,21,2,0,0,0,115,75031,0.15%,15.27383078,Second
+Delaware,"Sussex County, Delaware",10005,1,0,0,0,0,0,0,1,7337,0.01%,15.28917308,Second
+Michigan,"Lapeer County, Michigan",26087,3,0,2,0,0,0,0,7,1051,0.67%,15.29739094,Second
+Michigan,"St. Clair County, Michigan",26147,0,0,3,0,0,0,0,6,2897,0.21%,15.29747056,Second
+Oklahoma,"McClain County, Oklahoma",40087,0,1,0,0,0,0,0,1,683,0.15%,15.298621,Second
+Nebraska,"Madison County, Nebraska",31119,1,0,0,0,0,0,0,1,757,0.13%,15.29879656,Second
+Tennessee,"Anderson County, Tennessee",47001,1,0,1,0,0,0,0,3,1275,0.24%,15.29952997,Second
+Kansas,"Doniphan County, Kansas",20043,1,0,0,0,0,0,0,1,156,0.64%,15.2998062,Second
+Missouri,"Taney County, Missouri",29213,1,0,0,0,0,0,0,1,1911,0.05%,15.30135544,Second
+Virginia,"Waynesboro city, Virginia",51820,1,0,0,0,0,0,0,1,693,0.14%,15.30145956,Second
+Virginia,"Portsmouth city, Virginia",51740,3,0,0,0,0,0,0,3,5460,0.05%,15.30414507,Second
+Ohio,"Washington County, Ohio",39167,1,0,0,0,0,0,0,1,694,0.14%,15.30786626,Second
+New York,"Schoharie County, New York",36095,0,1,0,0,0,0,0,1,389,0.26%,15.30995188,Second
+Florida,"Lake County, Florida",12069,1,0,1,0,0,0,0,3,7955,0.04%,15.31025398,Second
+Illinois,"Winnebago County, Illinois",17201,3,0,2,0,0,0,0,7,11213,0.06%,15.31179558,Second
+Massachusetts,"Hampden County, Massachusetts",25013,8,0,4,0,0,0,0,16,16012,0.10%,15.31316422,Second
+Ohio,"Auglaize County, Ohio",39011,2,1,0,0,0,0,0,3,388,0.77%,15.31390959,Second
+Michigan,"Muskegon County, Michigan",26121,4,1,1,0,0,0,0,7,6907,0.10%,15.31645537,Second
+Delaware,"Kent County, Delaware",10001,1,1,0,0,0,0,0,2,5428,0.04%,15.3225993,Second
+West Virginia,"Marion County, West Virginia",54049,0,0,0,1,0,0,0,1,560,0.18%,15.32340622,Second
+California,"Mendocino County, California",6045,3,1,2,0,0,0,0,8,2058,0.39%,15.3286085,Second
+Michigan,"Saginaw County, Michigan",26145,6,2,1,0,0,0,0,10,5138,0.19%,15.33137961,Second
+Illinois,"Kane County, Illinois",17089,3,0,0,0,0,0,0,3,7563,0.04%,15.33210473,Second
+Texas,"Grayson County, Texas",48181,0,0,1,0,0,0,0,2,2961,0.07%,15.33688513,Second
+Michigan,"Allegan County, Michigan",26005,0,0,1,0,0,0,0,2,1602,0.12%,15.33834036,Second
+Kansas,"Reno County, Kansas",20155,1,0,1,0,0,0,0,3,2263,0.13%,15.33861226,Second
+Kentucky,"Daviess County, Kentucky",21059,5,1,0,0,0,0,0,6,2986,0.20%,15.34595865,Second
+Iowa,"Jasper County, Iowa",19099,1,0,0,0,0,0,0,1,881,0.11%,15.34867758,Second
+Maine,"Androscoggin County, Maine",23001,2,0,0,0,0,0,0,2,2474,0.08%,15.35280481,Third
+Michigan,"Shiawassee County, Michigan",26155,1,0,0,0,0,0,0,1,1126,0.09%,15.35543677,Third
+Michigan,"Mackinac County, Michigan",26097,0,0,1,0,0,0,0,2,356,0.56%,15.35787467,Third
+South Dakota,"Hamlin County, South Dakota",46057,0,0,1,0,0,0,0,2,65,3.08%,15.35974946,Third
+Louisiana,"Caddo Parish, Louisiana",22017,0,1,0,0,0,0,0,1,11618,0.01%,15.36085324,Third
+Kansas,"Greeley County, Kansas",20071,0,0,0,1,0,0,0,1,6,16.67%,15.36353211,Third
+Michigan,"Monroe County, Michigan",26115,5,0,0,0,0,0,0,5,2855,0.18%,15.36877291,Third
+Mississippi,"Harrison County, Mississippi",28047,0,0,1,0,0,0,0,2,8916,0.02%,15.37219835,Third
+West Virginia,"Wood County, West Virginia",54107,0,0,1,0,0,0,0,2,1820,0.11%,15.37531058,Third
+California,"Ventura County, California",6111,10,3,2,0,0,0,0,17,18702,0.09%,15.37610838,Third
+Tennessee,"Blount County, Tennessee",47009,4,0,2,0,0,0,0,8,2422,0.33%,15.38038561,Third
+Oregon,"Coos County, Oregon",41011,0,1,0,0,0,0,0,1,2164,0.05%,15.38398335,Third
+Kansas,"Montgomery County, Kansas",20125,1,0,0,1,0,0,0,2,1112,0.18%,15.3857534,Third
+Michigan,"Mecosta County, Michigan",26107,3,0,0,0,0,0,0,3,877,0.34%,15.38754626,Third
+Oklahoma,"Noble County, Oklahoma",40103,0,0,1,0,0,0,0,2,171,1.17%,15.38856268,Third
+Wisconsin,"Rock County, Wisconsin",55105,1,0,0,0,0,0,0,1,4401,0.02%,15.39036658,Third
+Florida,"Lee County, Florida",12071,4,0,2,0,0,0,0,8,15855,0.05%,15.39052282,Third
+Illinois,"Crawford County, Illinois",17033,1,0,0,0,0,0,0,1,233,0.43%,15.39105825,Third
+New York,"Oneida County, New York",36065,0,0,1,0,0,0,0,2,5867,0.03%,15.39428307,Third
+Ohio,"Miami County, Ohio",39109,0,0,2,0,0,0,0,4,2915,0.14%,15.39502296,Third
+Michigan,"Calhoun County, Michigan",26025,6,1,1,0,0,0,0,9,4563,0.20%,15.39869662,Third
+Missouri,"Clinton County, Missouri",29049,1,0,0,0,0,0,0,1,456,0.22%,15.40059748,Third
+New Jersey,"Union County, New Jersey",34039,0,1,0,0,0,0,0,1,12334,0.01%,15.40174983,Third
+Georgia,"Rockdale County, Georgia",13247,1,0,0,0,0,0,0,1,2955,0.03%,15.40204534,Third
+Oklahoma,"Wagoner County, Oklahoma",40145,4,1,0,0,0,0,0,5,1689,0.30%,15.40314578,Third
+Florida,"Pasco County, Florida",12101,2,0,1,0,0,0,0,4,12892,0.03%,15.40497896,Third
+Kentucky,"Spencer County, Kentucky",21215,1,0,0,0,0,0,0,1,135,0.74%,15.40535436,Third
+Utah,"Carbon County, Utah",49007,1,0,0,0,0,0,0,1,660,0.15%,15.40549985,Third
+Texas,"Lubbock County, Texas",48303,1,0,0,0,0,0,0,1,14182,0.01%,15.40899766,Third
+Montana,"Pondera County, Montana",30073,1,0,0,0,0,0,0,1,67,1.49%,15.41010968,Third
+Ohio,"Stark County, Ohio",39151,4,0,0,0,0,0,0,4,11288,0.04%,15.41233843,Third
+Vermont,"Franklin County, Vermont",50011,2,0,0,0,0,0,0,2,797,0.25%,15.41443882,Third
+Kentucky,"Boyd County, Kentucky",21019,1,1,0,0,0,0,0,2,1341,0.15%,15.41474721,Third
+Michigan,"Barry County, Michigan",26015,3,0,0,0,0,0,0,3,674,0.45%,15.41561346,Third
+Ohio,"Mahoning County, Ohio",39099,3,0,1,0,0,0,0,5,8248,0.06%,15.4169055,Third
+Michigan,"Otsego County, Michigan",26137,1,0,0,0,0,0,0,1,415,0.24%,15.41814538,Third
+California,"Napa County, California",6055,0,0,1,0,0,0,0,2,2919,0.07%,15.41984513,Third
+Colorado,"Weld County, Colorado",8123,2,0,0,0,0,0,0,2,6363,0.03%,15.43309809,Third
+South Carolina,"Horry County, South Carolina",45051,1,0,0,0,0,0,0,1,16896,0.01%,15.43458953,Third
+Florida,"Charlotte County, Florida",12015,1,0,0,0,0,0,0,1,3208,0.03%,15.4373667,Third
+California,"Solano County, California",6095,6,1,1,0,0,0,0,9,15569,0.06%,15.43934455,Third
+New Jersey,"Hudson County, New Jersey",34017,7,2,2,0,0,0,0,13,13065,0.10%,15.4395991,Third
+Kansas,"Saline County, Kansas",20169,3,0,0,0,0,0,0,3,2171,0.14%,15.44285364,Third
+New Jersey,"Essex County, New Jersey",34013,6,4,4,0,0,0,0,18,23492,0.08%,15.44450939,Third
+Michigan,"Jackson County, Michigan",26075,3,0,0,0,0,0,0,3,4058,0.07%,15.44510603,Third
+Texas,"Tarrant County, Texas",48439,16,4,5,1,0,5,5,31,71745,0.04%,15.44632188,Third
+West Virginia,"Kanawha County, West Virginia",54039,11,1,5,1,0,0,0,23,8385,0.27%,15.44864797,Third
+Iowa,"Clinton County, Iowa",19045,0,1,0,0,0,0,0,1,1673,0.06%,15.44962997,Third
+California,"Sacramento County, California",6067,12,2,6,0,0,0,0,26,47698,0.05%,15.45186299,Third
+South Carolina,"Berkeley County, South Carolina",45015,1,0,0,0,0,0,0,1,5633,0.02%,15.45445478,Third
+Connecticut,"Windham County, Connecticut",9015,1,0,0,0,0,0,0,1,703,0.14%,15.45841866,Third
+Michigan,"Macomb County, Michigan",26099,14,1,0,2,0,0,0,17,18161,0.09%,15.46079355,Third
+Washington,"Klickitat County, Washington",53039,2,0,0,0,0,0,0,2,290,0.69%,15.46086437,Third
+Colorado,"Pueblo County, Colorado",8101,1,0,0,0,0,0,0,1,9277,0.01%,15.46220102,Third
+Michigan,"Genesee County, Michigan",26049,17,1,2,0,0,0,0,22,13938,0.16%,15.4623152,Third
+Maryland,"Prince George's County, Maryland",24033,1,0,1,0,0,0,0,3,30724,0.01%,15.46379655,Third
+Colorado,"Garfield County, Colorado",8045,2,0,0,0,0,0,0,2,1092,0.18%,15.46510768,Third
+North Carolina,"Onslow County, North Carolina",37133,0,0,1,0,0,0,0,2,3416,0.06%,15.46556661,Third
+Wisconsin,"Polk County, Wisconsin",55095,1,0,0,0,0,0,0,1,573,0.17%,15.46558587,Third
+Montana,"Richland County, Montana",30083,0,1,0,0,0,0,0,1,153,0.65%,15.46713305,Third
+Wisconsin,"Fond du Lac County, Wisconsin",55039,2,0,0,0,0,0,0,2,1801,0.11%,15.46835048,Third
+South Carolina,"Georgetown County, South Carolina",45043,2,0,0,0,0,0,0,2,2385,0.08%,15.4684169,Third
+Washington,"Stevens County, Washington",53065,1,0,0,0,0,0,0,1,900,0.11%,15.47249839,Third
+Kentucky,"Franklin County, Kentucky",21073,3,2,0,0,0,0,0,5,1487,0.34%,15.47510152,Third
+Illinois,"Effingham County, Illinois",17049,1,1,0,0,0,0,0,2,631,0.32%,15.47522833,Third
+California,"Amador County, California",6005,0,1,0,0,0,0,0,1,710,0.14%,15.47679677,Third
+Florida,"Volusia County, Florida",12127,4,0,2,0,0,0,0,8,17894,0.04%,15.48244682,Third
+New York,"Cayuga County, New York",36011,0,1,0,0,0,0,0,1,1613,0.06%,15.48559463,Third
+Pennsylvania,"Lackawanna County, Pennsylvania",42069,1,1,0,0,0,0,0,2,4330,0.05%,15.49443814,Third
+Maryland,"Baltimore city, Maryland",24510,1,0,2,0,0,0,0,5,38341,0.01%,15.49672173,Third
+Utah,"Weber County, Utah",49057,7,0,4,1,0,0,0,16,7177,0.22%,15.49685675,Third
+Kentucky,"McCracken County, Kentucky",21145,3,1,0,0,0,0,0,4,1922,0.21%,15.49917438,Third
+National,National ,,,,,,,,,8.3,9009,0.09%,15.5,Third
+Kansas,"Neosho County, Kansas",20133,1,0,0,0,0,0,0,1,374,0.27%,15.50217572,Third
+Indiana,"Marion County, Indiana",18097,20,3,5,0,0,0,0,33,54434,0.06%,15.50385571,Third
+Kansas,"Franklin County, Kansas",20059,1,0,0,0,0,0,0,1,698,0.14%,15.50409812,Third
+Kansas,"Brown County, Kansas",20013,1,0,0,0,0,0,0,1,225,0.44%,15.50456929,Third
+North Carolina,"Iredell County, North Carolina",37097,2,0,0,0,0,0,0,2,4153,0.05%,15.50639044,Third
+Missouri,"Phelps County, Missouri",29161,2,0,0,0,0,0,0,2,1443,0.14%,15.50651548,Third
+South Dakota,"Brule County, South Dakota",46015,0,0,1,0,0,0,0,2,134,1.49%,15.50673023,Third
+California,"Mono County, California",6051,2,0,0,0,0,0,0,2,220,0.91%,15.51297513,Third
+Michigan,"Mason County, Michigan",26105,4,0,0,0,0,0,0,4,693,0.58%,15.51394829,Third
+Iowa,"Mahaska County, Iowa",19123,1,0,0,0,0,0,0,1,465,0.22%,15.52158608,Third
+Tennessee,"Sumner County, Tennessee",47165,1,1,1,0,0,0,0,4,3112,0.13%,15.52672781,Third
+Kentucky,"Madison County, Kentucky",21151,3,1,0,0,0,0,0,4,2274,0.18%,15.52858891,Third
+Wyoming,"Campbell County, Wyoming",56005,3,0,0,0,0,0,0,3,1283,0.23%,15.52879444,Third
+Utah,"Tooele County, Utah",49045,4,0,1,0,0,0,0,6,1772,0.34%,15.52937178,Third
+Michigan,"Delta County, Michigan",26041,1,0,0,0,1,0,1,2,802,0.25%,15.53241457,Third
+Ohio,"Lorain County, Ohio",39093,2,1,1,0,0,1,1,5,4617,0.11%,15.53402701,Third
+Ohio,"Licking County, Ohio",39089,1,0,0,0,0,0,0,1,4501,0.02%,15.53895973,Third
+Indiana,"Delaware County, Indiana",18035,1,0,0,0,0,0,0,1,3820,0.03%,15.54410191,Third
+Tennessee,"Madison County, Tennessee",47113,2,1,0,0,0,0,0,3,4494,0.07%,15.54679482,Third
+California,"Tuolumne County, California",6109,1,1,0,0,0,0,0,2,1308,0.15%,15.54870497,Third
+New Jersey,"Camden County, New Jersey",34007,1,2,0,0,0,0,0,3,15479,0.02%,15.54997349,Third
+Washington,"Skagit County, Washington",53057,0,0,0,0,0,2,2,0,4588,0.00%,15.55774465,Third
+Mississippi,"DeSoto County, Mississippi",28033,3,1,1,0,0,0,0,6,3205,0.19%,15.55823319,Third
+Texas,"Bell County, Texas",48027,1,0,0,0,0,0,0,1,11381,0.01%,15.55937074,Third
+Kentucky,"Warren County, Kentucky",21227,6,2,3,0,0,0,0,14,3861,0.36%,15.56529439,Third
+Wisconsin,"Milwaukee County, Wisconsin",55079,0,0,1,0,0,1,1,2,48786,0.00%,15.56947538,Third
+Kentucky,"Hardin County, Kentucky",21093,4,0,1,0,0,1,1,6,2071,0.29%,15.57052698,Third
+Oklahoma,"Oklahoma County, Oklahoma",40109,3,0,0,0,0,0,0,3,34478,0.01%,15.57192367,Third
+West Virginia,"Cabell County, West Virginia",54011,1,0,1,1,0,0,0,4,3567,0.11%,15.57440522,Third
+Nevada,"Washoe County, Nevada",32031,0,1,0,0,0,0,0,1,12055,0.01%,15.58081019,Third
+Virginia,"Newport News city, Virginia",51700,3,0,1,0,0,0,0,5,6480,0.08%,15.5821741,Third
+California,"Butte County, California",6007,4,0,1,0,0,0,0,6,7309,0.08%,15.5849233,Third
+Kentucky,"Calloway County, Kentucky",21035,1,1,0,0,0,0,0,2,970,0.21%,15.58603352,Third
+Texas,"Parker County, Texas",48367,0,1,1,1,0,0,0,4,2103,0.19%,15.5884731,Third
+New Jersey,"Ocean County, New Jersey",34029,0,1,0,0,0,0,0,1,9770,0.01%,15.5900947,Third
+Kansas,"Wabaunsee County, Kansas",20197,1,0,0,0,0,0,0,1,130,0.77%,15.59106169,Third
+Louisiana,"Bossier Parish, Louisiana",22015,1,0,1,0,0,0,0,3,4369,0.07%,15.59357359,Third
+Kentucky,"Jessamine County, Kentucky",21113,5,1,0,0,0,0,0,6,1515,0.40%,15.59647953,Third
+Florida,"Clay County, Florida",12019,2,0,0,0,0,0,0,2,4649,0.04%,15.60784066,Third
+California,"Shasta County, California",6089,9,1,2,0,0,0,0,14,6980,0.20%,15.60866371,Third
+Ohio,"Clermont County, Ohio",39025,0,1,0,0,0,0,0,1,5728,0.02%,15.61332451,Third
+New Jersey,"Cape May County, New Jersey",34009,1,0,0,0,0,0,0,1,3770,0.03%,15.61489198,Third
+New York,"Niagara County, New York",36063,2,0,1,0,0,0,0,4,6230,0.06%,15.61591815,Third
+Ohio,"Lucas County, Ohio",39095,31,1,4,0,0,0,0,40,11863,0.34%,15.62215691,Third
+Kansas,"Pratt County, Kansas",20151,1,0,0,0,0,0,0,1,305,0.33%,15.62341972,Third
+Virginia,"Frederick County, Virginia",51069,1,0,0,0,0,0,0,1,1696,0.06%,15.62408928,Third
+Oregon,"Union County, Oregon",41061,1,0,0,0,0,0,0,1,559,0.18%,15.62628745,Third
+Indiana,"Allen County, Indiana",18003,2,0,2,0,0,0,0,6,10471,0.06%,15.62856827,Third
+Arizona,"Maricopa County, Arizona",4013,101,45,47,1,0,0,0,241,140538,0.17%,15.63249688,Third
+Texas,"Galveston County, Texas",48167,8,0,1,0,0,0,0,10,9911,0.10%,15.6344408,Third
+Oregon,"Jackson County, Oregon",41029,2,1,2,0,0,0,0,7,9063,0.08%,15.63515404,Third
+Virginia,"Norfolk city, Virginia",51710,0,1,0,0,0,0,0,1,11475,0.01%,15.63521619,Third
+Indiana,"St. Joseph County, Indiana",18141,10,0,0,0,0,0,0,10,9184,0.11%,15.63685592,Third
+Virginia,"Harrisonburg city, Virginia",51660,3,1,0,0,0,0,0,4,1260,0.32%,15.63815346,Third
+Oregon,"Lincoln County, Oregon",41041,0,3,0,0,0,0,0,3,1737,0.17%,15.63843538,Third
+New Jersey,"Warren County, New Jersey",34041,1,0,0,0,0,0,0,1,1533,0.07%,15.64116877,Third
+Maine,"Kennebec County, Maine",23011,1,1,1,0,0,0,0,4,3092,0.13%,15.64363876,Third
+Maine,"Penobscot County, Maine",23019,1,0,0,0,0,0,0,1,3585,0.03%,15.64388975,Third
+Alaska,"Matanuska-Susitna Borough, Alaska",2170,1,0,0,0,0,0,0,1,822,0.12%,15.64651985,Third
+Michigan,"Berrien County, Michigan",26021,2,1,0,0,0,0,0,3,3728,0.08%,15.64738689,Third
+Tennessee,"Shelby County, Tennessee",47157,18,1,7,2,0,0,0,35,57816,0.06%,15.64925244,Third
+California,"Orange County, California",6059,21,8,4,0,0,0,0,37,61011,0.06%,15.64938023,Third
+Indiana,"Brown County, Indiana",18013,0,0,1,0,0,0,0,2,122,1.64%,15.65179138,Third
+Florida,"Broward County, Florida",12011,5,3,3,0,0,0,0,14,64848,0.02%,15.65180155,Third
+Montana,"Hill County, Montana",30041,1,0,0,0,0,0,0,1,572,0.17%,15.65349898,Third
+Tennessee,"Hamilton County, Tennessee",47065,4,6,1,1,0,0,0,13,17277,0.08%,15.65635826,Third
+Oklahoma,"Canadian County, Oklahoma",40017,1,0,0,0,0,0,0,1,4259,0.02%,15.66581387,Third
+New Hampshire,"Sullivan County, New Hampshire",33019,1,0,0,0,0,0,0,1,716,0.14%,15.6678117,Third
+North Carolina,"Cabarrus County, North Carolina",37025,0,1,0,0,0,0,0,1,4091,0.02%,15.67405274,Third
+Texas,"Brewster County, Texas",48043,0,0,1,0,0,0,0,2,172,1.16%,15.67420884,Third
+Maine,"Franklin County, Maine",23007,0,0,1,0,0,0,0,2,443,0.45%,15.6752963,Third
+Colorado,"Mesa County, Colorado",8077,4,0,0,0,0,0,0,4,4413,0.09%,15.67564188,Third
+Tennessee,"Wilson County, Tennessee",47189,2,1,0,0,0,0,0,3,2695,0.11%,15.67758522,Fourth
+New York,"Chemung County, New York",36015,1,0,0,0,0,0,0,1,2153,0.05%,15.67798407,Fourth
+Florida,"Hillsborough County, Florida",12057,3,0,2,0,0,0,0,7,31923,0.02%,15.67807026,Fourth
+Washington,"Walla Walla County, Washington",53071,6,1,0,1,0,0,0,8,2267,0.35%,15.67823481,Fourth
+Ohio,"Butler County, Ohio",39017,11,1,0,0,0,0,0,12,13337,0.09%,15.67929709,Fourth
+North Carolina,"Cumberland County, North Carolina",37051,7,0,0,0,0,0,0,7,17231,0.04%,15.68406641,Fourth
+West Virginia,"Jefferson County, West Virginia",54037,2,0,0,0,0,0,0,2,931,0.21%,15.68591138,Fourth
+Montana,"Broadwater County, Montana",30007,1,0,0,0,0,0,0,1,46,2.17%,15.68949772,Fourth
+Florida,"Orange County, Florida",12095,3,2,2,0,0,1,1,9,57567,0.02%,15.69150644,Fourth
+Virginia,"Hampton city, Virginia",51650,1,0,0,0,0,0,0,1,4845,0.02%,15.69245496,Fourth
+California,"Sonoma County, California",6097,6,0,4,0,0,0,0,14,10404,0.13%,15.69276447,Fourth
+North Dakota,"Williams County, North Dakota",38105,1,0,0,0,0,0,0,1,1788,0.06%,15.69332488,Fourth
+Wisconsin,"Brown County, Wisconsin",55009,1,0,0,0,0,0,0,1,4332,0.02%,15.69345121,Fourth
+Ohio,"Hancock County, Ohio",39063,0,1,0,0,0,0,0,1,1843,0.05%,15.69442491,Fourth
+Ohio,"Portage County, Ohio",39133,2,0,1,1,0,0,0,5,2987,0.17%,15.6949069,Fourth
+Florida,"Escambia County, Florida",12033,2,0,0,0,0,0,0,2,14468,0.01%,15.69612421,Fourth
+Texas,"Montgomery County, Texas",48339,1,0,0,0,0,0,0,1,9493,0.01%,15.698618,Fourth
+Illinois,"Cook County, Illinois",17031,34,9,14,0,0,3,3,71,163071,0.04%,15.69891544,Fourth
+Virginia,"Spotsylvania County, Virginia",51177,1,0,0,0,0,0,0,1,2200,0.05%,15.69919614,Fourth
+Washington,"Pierce County, Washington",53053,22,1,7,0,0,0,0,37,35442,0.10%,15.69991614,Fourth
+Vermont,"Caledonia County, Vermont",50005,4,0,0,0,0,0,0,4,429,0.93%,15.70003701,Fourth
+Kansas,"Sedgwick County, Kansas",20173,5,0,2,0,0,0,0,9,23268,0.04%,15.70503049,Fourth
+New York,"Orange County, New York",36071,0,1,0,0,0,0,0,1,7929,0.01%,15.70708241,Fourth
+Oklahoma,"Tulsa County, Oklahoma",40143,2,1,0,0,0,0,0,3,28040,0.01%,15.70717405,Fourth
+Illinois,"Coles County, Illinois",17029,1,0,0,0,0,0,0,1,729,0.14%,15.70774043,Fourth
+Illinois,"Tazewell County, Illinois",17179,1,0,0,0,0,0,0,1,2427,0.04%,15.70833422,Fourth
+Tennessee,"Montgomery County, Tennessee",47125,2,0,0,0,0,0,0,2,6247,0.03%,15.71040489,Fourth
+Indiana,"Porter County, Indiana",18127,1,0,0,0,0,0,0,1,2344,0.04%,15.71132908,Fourth
+Florida,"Palm Beach County, Florida",12099,0,2,0,0,0,0,0,2,47324,0.00%,15.71761164,Fourth
+Kentucky,"Scott County, Kentucky",21209,3,0,0,0,0,0,0,3,1272,0.24%,15.71848625,Fourth
+Kentucky,"Kenton County, Kentucky",21117,7,3,5,0,0,0,0,20,4139,0.48%,15.71958744,Fourth
+Ohio,"Montgomery County, Ohio",39113,12,1,2,1,0,0,0,18,20648,0.09%,15.72063362,Fourth
+Minnesota,"Stearns County, Minnesota",27145,3,2,1,0,0,0,0,7,4010,0.17%,15.72123285,Fourth
+North Carolina,"Jackson County, North Carolina",37099,1,1,0,0,0,0,0,2,1010,0.20%,15.72601855,Fourth
+Missouri,"Jackson County, Missouri",29095,36,6,5,0,1,0,1,53,42940,0.12%,15.73137124,Fourth
+South Carolina,"Greenville County, South Carolina",45045,3,0,0,0,0,0,0,3,19328,0.02%,15.73147686,Fourth
+Iowa,"Boone County, Iowa",19015,1,0,0,0,0,0,0,1,406,0.25%,15.73443961,Fourth
+Kansas,"Shawnee County, Kansas",20177,1,1,0,0,0,0,0,2,7878,0.03%,15.73478874,Fourth
+South Dakota,"Meade County, South Dakota",46093,1,0,0,0,0,0,0,1,297,0.34%,15.7360284,Fourth
+Michigan,"Benzie County, Michigan",26019,1,0,0,0,0,0,0,1,205,0.49%,15.73641325,Fourth
+Virginia,"Richmond city, Virginia",51760,0,1,0,0,0,0,0,1,10389,0.01%,15.73667331,Fourth
+Washington,"Benton County, Washington",53005,2,0,0,0,0,0,0,2,4849,0.04%,15.74256604,Fourth
+West Virginia,"Ohio County, West Virginia",54069,1,0,0,0,0,0,0,1,1223,0.08%,15.74361257,Fourth
+Virginia,"Powhatan County, Virginia",51145,1,0,0,0,0,0,0,1,314,0.32%,15.74424076,Fourth
+Virginia,"Mathews County, Virginia",51115,1,0,0,0,0,0,0,1,93,1.08%,15.74834046,Fourth
+Tennessee,"Rutherford County, Tennessee",47149,3,0,1,0,0,0,0,5,8100,0.06%,15.74846896,Fourth
+Kansas,"Crawford County, Kansas",20037,1,0,0,0,0,0,0,1,1725,0.06%,15.75147853,Fourth
+New Jersey,"Gloucester County, New Jersey",34015,12,1,1,0,0,0,0,15,6668,0.22%,15.75596485,Fourth
+Vermont,"Rutland County, Vermont",50021,1,1,0,0,0,0,0,2,1041,0.19%,15.7636855,Fourth
+Massachusetts,"Suffolk County, Massachusetts",25025,75,17,28,1,0,9,9,149,27101,0.55%,15.76492831,Fourth
+Tennessee,"Washington County, Tennessee",47179,0,0,1,1,0,0,0,3,3624,0.08%,15.76495432,Fourth
+Wisconsin,"Outagamie County, Wisconsin",55087,2,0,0,0,0,0,0,2,3201,0.06%,15.76563219,Fourth
+South Dakota,"Brown County, South Dakota",46013,0,0,0,0,0,1,1,0,676,0.00%,15.76599749,Fourth
+North Dakota,"McKenzie County, North Dakota",38053,2,0,0,0,0,0,0,2,244,0.82%,15.77363146,Fourth
+Iowa,"Dubuque County, Iowa",19061,1,0,0,0,0,0,0,1,1908,0.05%,15.7786742,Fourth
+Missouri,"St. Louis city, Missouri",29510,8,1,0,0,0,0,0,9,25649,0.04%,15.78018539,Fourth
+North Carolina,"Forsyth County, North Carolina",37067,6,0,0,0,0,0,0,6,18434,0.03%,15.78272747,Fourth
+Florida,"Pinellas County, Florida",12103,3,0,2,0,0,0,0,7,39202,0.02%,15.78507179,Fourth
+Kansas,"Harvey County, Kansas",20079,2,0,0,0,0,0,0,2,859,0.23%,15.78588215,Fourth
+California,"San Diego County, California",6073,38,15,22,0,0,0,0,97,69635,0.14%,15.78969451,Fourth
+Illinois,"Madison County, Illinois",17119,1,0,0,0,0,0,0,1,5136,0.02%,15.79256361,Fourth
+Arizona,"Yavapai County, Arizona",4025,1,0,1,0,0,0,0,3,3835,0.08%,15.7928828,Fourth
+Kentucky,"Woodford County, Kentucky",21239,1,0,0,0,0,0,0,1,500,0.20%,15.79437401,Fourth
+Arizona,"Pima County, Arizona",4019,3,2,2,0,0,0,0,9,49312,0.02%,15.79500002,Fourth
+Ohio,"Cuyahoga County, Ohio",39035,14,3,2,0,0,0,0,21,39068,0.05%,15.79856016,Fourth
+South Dakota,"Minnehaha County, South Dakota",46099,3,2,2,0,0,0,0,9,5220,0.17%,15.80057128,Fourth
+North Carolina,"Pitt County, North Carolina",37147,1,0,4,0,0,1,1,9,6125,0.15%,15.80302432,Fourth
+Ohio,"Summit County, Ohio",39153,6,0,1,0,0,0,0,8,17049,0.05%,15.80442618,Fourth
+Alabama,"Baldwin County, Alabama",1003,1,0,0,0,0,0,0,1,4433,0.02%,15.8063253,Fourth
+New York,"Broome County, New York",36007,1,0,0,0,0,0,0,1,6408,0.02%,15.81533971,Fourth
+Kentucky,"Campbell County, Kentucky",21037,2,1,1,0,0,0,0,5,2525,0.20%,15.81626048,Fourth
+Michigan,"Eaton County, Michigan",26045,2,0,0,0,0,0,0,2,1946,0.10%,15.82462821,Fourth
+Michigan,"Kent County, Michigan",26081,3,2,1,0,0,0,0,7,14935,0.05%,15.82490829,Fourth
+Florida,"Brevard County, Florida",12009,4,2,3,0,0,0,0,12,17253,0.07%,15.82515402,Fourth
+Washington,"Clallam County, Washington",53009,5,0,1,0,1,0,1,8,2222,0.36%,15.82807945,Fourth
+Idaho,"Kootenai County, Idaho",16055,3,2,0,0,0,0,0,5,4330,0.12%,15.82903579,Fourth
+New York,"Schenectady County, New York",36093,0,1,0,0,0,0,0,1,5127,0.02%,15.83372277,Fourth
+Minnesota,"Crow Wing County, Minnesota",27035,1,0,0,0,0,0,0,1,1569,0.06%,15.83403084,Fourth
+North Carolina,"Guilford County, North Carolina",37081,6,4,1,0,0,0,0,12,17687,0.07%,15.83506048,Fourth
+New Mexico,"Bernalillo County, New Mexico",35001,7,9,9,0,0,0,0,34,39078,0.09%,15.85714286,Fourth
+California,"Santa Cruz County, California",6087,8,4,2,0,0,0,0,16,9260,0.17%,15.8578686,Fourth
+California,"Humboldt County, California",6023,2,1,0,0,0,0,0,3,5272,0.06%,15.86145672,Fourth
+Michigan,"Isabella County, Michigan",26073,1,0,0,0,0,0,0,1,1340,0.07%,15.86925956,Fourth
+Connecticut,"New Haven County, Connecticut",9009,13,5,2,0,0,0,0,22,24314,0.09%,15.87082774,Fourth
+Kentucky,"Jefferson County, Kentucky",21111,4,1,1,0,0,0,0,7,36383,0.02%,15.8726181,Fourth
+Washington,"Clark County, Washington",53011,6,0,0,0,0,0,0,6,10389,0.06%,15.87349281,Fourth
+Montana,"Yellowstone County, Montana",30111,2,1,1,0,0,0,0,5,6266,0.08%,15.87811433,Fourth
+Maine,"York County, Maine",23031,5,3,1,0,0,0,0,10,4045,0.25%,15.87817224,Fourth
+Illinois,"Peoria County, Illinois",17143,1,0,0,0,0,0,0,1,6989,0.01%,15.87861318,Fourth
+Missouri,"Greene County, Missouri",29077,1,0,0,0,0,0,0,1,16630,0.01%,15.8838774,Fourth
+Minnesota,"Anoka County, Minnesota",27003,3,0,0,0,0,0,0,3,8361,0.04%,15.88686704,Fourth
+Illinois,"Will County, Illinois",17197,5,1,3,0,0,0,0,12,9998,0.12%,15.89034739,Fourth
+Colorado,"San Juan County, Colorado",8111,1,0,0,0,0,0,0,1,18,5.56%,15.89059081,Fourth
+Arkansas,"Pulaski County, Arkansas",5119,2,0,0,0,0,1,1,2,26679,0.01%,15.89226017,Fourth
+Texas,"Hays County, Texas",48209,0,0,1,0,0,0,0,2,3889,0.05%,15.89423614,Fourth
+Alabama,"Jefferson County, Alabama",1073,10,1,1,0,0,0,0,13,33747,0.04%,15.89569533,Fourth
+Pennsylvania,"Cumberland County, Pennsylvania",42041,3,0,1,0,0,0,0,5,3813,0.13%,15.89713915,Fourth
+Massachusetts,"Essex County, Massachusetts",25009,19,12,9,1,0,1,1,50,15935,0.31%,15.90665509,Fourth
+Louisiana,"Orleans Parish, Louisiana",22071,3,2,1,0,0,0,0,7,20564,0.03%,15.90720907,Fourth
+Massachusetts,"Worcester County, Massachusetts",25027,7,3,1,1,0,1,1,13,18780,0.07%,15.90780138,Fourth
+Utah,"Grand County, Utah",49019,1,0,0,0,0,0,0,1,263,0.38%,15.90865743,Fourth
+Michigan,"Houghton County, Michigan",26061,2,0,0,0,0,0,0,2,462,0.43%,15.91712552,Fourth
+Minnesota,"Wright County, Minnesota",27171,1,0,0,0,0,0,0,1,1919,0.05%,15.91715649,Fourth
+Massachusetts,"Berkshire County, Massachusetts",25003,2,0,1,0,0,0,0,4,2954,0.14%,15.91885318,Fourth
+Missouri,"Clay County, Missouri",29047,2,0,0,0,0,0,0,2,2839,0.07%,15.92174694,Fourth
+Utah,"Salt Lake County, Utah",49035,5,1,0,0,0,0,0,6,52907,0.01%,15.92316466,Fourth
+Nebraska,"Douglas County, Nebraska",31055,4,1,0,0,0,0,0,5,23063,0.02%,15.92317364,Fourth
+Idaho,"Bannock County, Idaho",16005,4,0,0,0,0,0,0,4,2132,0.19%,15.92461206,Fourth
+New Hampshire,"Belknap County, New Hampshire",33001,2,1,0,1,0,0,0,4,1800,0.22%,15.92784553,Fourth
+Oregon,"Lane County, Oregon",41039,34,6,4,1,0,1,1,49,11322,0.43%,15.93293947,Fourth
+Ohio,"Medina County, Ohio",39103,1,0,0,0,0,0,0,1,1868,0.05%,15.93610139,Fourth
+Washington,"Snohomish County, Washington",53061,26,6,3,0,0,1,1,38,27604,0.14%,15.93704798,Fourth
+New Hampshire,"Cheshire County, New Hampshire",33005,2,2,0,0,0,0,0,4,1537,0.26%,15.93944472,Fourth
+California,"Yolo County, California",6113,5,1,1,0,0,1,1,8,6264,0.13%,15.94164662,Fourth
+Virginia,"Chesapeake city, Virginia",51550,2,1,0,1,0,0,0,4,7444,0.05%,15.94465109,Fourth
+Michigan,"Marquette County, Michigan",26103,3,0,0,0,0,0,0,3,1075,0.28%,15.94670102,Fourth
+Connecticut,"Hartford County, Connecticut",9003,15,3,6,0,0,0,0,30,22951,0.13%,15.94950979,Fourth
+Connecticut,"New London County, Connecticut",9011,2,3,0,0,0,0,0,5,3611,0.14%,15.9517688,Fourth
+Virginia,"Radford city, Virginia",51750,1,0,0,0,0,0,0,1,587,0.17%,15.95227911,Fourth
+South Dakota,"Pennington County, South Dakota",46103,2,0,0,1,0,0,0,3,3704,0.08%,15.95435811,Fourth
+Kansas,"Butler County, Kansas",20015,2,1,0,0,0,0,0,3,1617,0.19%,15.95500719,Fourth
+Ohio,"Athens County, Ohio",39009,1,0,1,0,0,0,0,3,1271,0.24%,15.9574892,Fourth
+Louisiana,"East Baton Rouge Parish, Louisiana",22033,2,0,1,0,0,0,0,4,20851,0.02%,15.96124731,Fourth
+Delaware,"New Castle County, Delaware",10003,1,0,0,0,0,0,0,1,19720,0.01%,15.97628551,Fourth
+Kentucky,"Boone County, Kentucky",21015,1,0,1,0,0,0,0,3,2944,0.10%,15.98264506,Fourth
+New Jersey,"Middlesex County, New Jersey",34023,8,6,2,0,0,0,0,18,13385,0.13%,15.98930032,Fourth
+Utah,"Washington County, Utah",49053,3,1,0,0,0,0,0,4,2764,0.14%,15.99069083,Fourth
+North Carolina,"Moore County, North Carolina",37125,0,0,0,0,1,0,1,1,2015,0.05%,15.99371135,Fourth
+Arizona,"Coconino County, Arizona",4005,0,0,1,0,0,0,0,2,4879,0.04%,15.9948333,Fourth
+Washington,"Whatcom County, Washington",53073,15,2,4,0,0,0,0,25,7219,0.35%,15.99495966,Fourth
+Illinois,"McHenry County, Illinois",17111,4,0,0,0,0,0,0,4,3510,0.11%,15.9963453,Fourth
+New York,"Erie County, New York",36029,5,0,1,0,0,1,1,7,28495,0.02%,16.00252273,Fourth
+Texas,"Brazos County, Texas",48041,0,1,0,0,0,0,0,1,6144,0.02%,16.00735699,Fourth
+South Dakota,"Union County, South Dakota",46127,0,0,0,1,0,0,0,1,123,0.81%,16.00754417,Fourth
+Massachusetts,"Plymouth County, Massachusetts",25023,1,0,0,0,0,0,0,1,9054,0.01%,16.00935662,Fourth
+New Jersey,"Sussex County, New Jersey",34037,0,1,0,0,0,0,0,1,1429,0.07%,16.01091113,Fourth
+Connecticut,"Litchfield County, Connecticut",9005,1,2,0,0,0,0,0,3,1977,0.15%,16.01637951,Fourth
+Kansas,"Ellis County, Kansas",20051,1,0,0,0,0,0,0,1,660,0.15%,16.01701302,Fourth
+California,"San Luis Obispo County, California",6079,2,0,0,0,0,0,0,2,6860,0.03%,16.0170604,Fourth
+Ohio,"Geauga County, Ohio",39055,1,0,0,0,0,0,0,1,709,0.14%,16.01953278,Fourth
+Ohio,"Hamilton County, Ohio",39061,36,3,10,0,1,0,1,60,34434,0.17%,16.02387216,Fourth
+Iowa,"Polk County, Iowa",19153,2,1,1,0,0,0,0,5,14919,0.03%,16.0266039,Fourth
+Minnesota,"Ramsey County, Minnesota",27123,10,3,3,0,0,0,0,19,19855,0.10%,16.03048115,Fourth
+Oklahoma,"Cleveland County, Oklahoma",40027,1,0,1,0,0,0,0,3,9452,0.03%,16.03158765,Fourth
+Montana,"Flathead County, Montana",30029,0,0,1,0,1,0,1,3,2878,0.10%,16.03213554,Fourth
+Washington,"Spokane County, Washington",53063,15,2,2,0,0,0,0,21,29502,0.07%,16.03324129,Top Fifth
+South Dakota,"Lake County, South Dakota",46079,0,0,1,0,0,0,0,2,101,1.98%,16.04093496,Top Fifth
+Kansas,"Thomas County, Kansas",20193,1,0,0,0,0,0,0,1,211,0.47%,16.0451843,Top Fifth
+Colorado,"Custer County, Colorado",8027,1,0,0,0,0,0,0,1,40,2.50%,16.04925373,Top Fifth
+Illinois,"Sangamon County, Illinois",17167,3,0,0,0,0,0,0,3,8784,0.03%,16.05680633,Top Fifth
+California,"Contra Costa County, California",6013,12,2,5,0,0,0,0,24,35882,0.07%,16.05851132,Top Fifth
+North Carolina,"Buncombe County, North Carolina",37021,1,0,2,0,0,0,0,5,7103,0.07%,16.06129668,Top Fifth
+North Carolina,"Chatham County, North Carolina",37037,1,0,0,0,0,0,0,1,1369,0.07%,16.06192819,Top Fifth
+California,"Alameda County, California",6001,33,9,9,1,0,0,0,61,67976,0.09%,16.06470795,Top Fifth
+New Hampshire,"Hillsborough County, New Hampshire",33011,1,1,1,0,0,0,0,4,9289,0.04%,16.06605197,Top Fifth
+New Jersey,"Mercer County, New Jersey",34021,2,2,1,0,0,0,0,6,8044,0.07%,16.07609761,Top Fifth
+Ohio,"Franklin County, Ohio",39049,134,12,19,0,0,0,0,184,49599,0.37%,16.07656109,Top Fifth
+Maryland,"Harford County, Maryland",24025,4,0,0,0,0,0,0,4,4281,0.09%,16.07698331,Top Fifth
+Tennessee,"Knox County, Tennessee",47093,1,1,0,0,0,0,0,2,19905,0.01%,16.09666272,Top Fifth
+Indiana,"Hendricks County, Indiana",18063,0,1,0,0,0,0,0,1,3164,0.03%,16.0976325,Top Fifth
+Nebraska,"Buffalo County, Nebraska",31019,1,0,0,0,0,0,0,1,965,0.10%,16.10647943,Top Fifth
+Colorado,"Denver County, Colorado",8031,10,3,6,0,0,0,0,25,26652,0.09%,16.11463216,Top Fifth
+Minnesota,"Clay County, Minnesota",27027,0,0,1,0,0,0,0,2,1150,0.17%,16.11556661,Top Fifth
+Vermont,"Addison County, Vermont",50001,0,1,0,0,0,0,0,1,445,0.22%,16.11779389,Top Fifth
+Minnesota,"Blue Earth County, Minnesota",27013,3,0,2,0,0,0,0,7,1770,0.40%,16.12632106,Top Fifth
+Alaska,"Anchorage Municipality, Alaska",2020,4,0,0,0,0,0,0,4,14364,0.03%,16.13004686,Top Fifth
+Iowa,"Linn County, Iowa",19113,0,0,1,0,0,0,0,2,6591,0.03%,16.13246188,Top Fifth
+New Hampshire,"Strafford County, New Hampshire",33017,2,1,1,1,0,0,0,6,3321,0.18%,16.13440099,Top Fifth
+California,"El Dorado County, California",6017,0,1,0,0,0,0,0,1,3547,0.03%,16.13510361,Top Fifth
+Vermont,"Windsor County, Vermont",50027,1,0,0,1,0,0,0,2,723,0.28%,16.13540519,Top Fifth
+Vermont,"Lamoille County, Vermont",50015,1,0,0,0,0,0,0,1,160,0.63%,16.14755612,Top Fifth
+Michigan,"Grand Traverse County, Michigan",26055,4,3,0,0,0,0,0,7,1190,0.59%,16.15280975,Top Fifth
+Virginia,"Hanover County, Virginia",51085,1,0,0,0,0,0,0,1,1390,0.07%,16.15528183,Top Fifth
+Texas,"Rockwall County, Texas",48397,1,0,0,0,0,0,0,1,1155,0.09%,16.15647663,Top Fifth
+New York,"Monroe County, New York",36055,2,1,1,0,0,0,0,5,21510,0.02%,16.16409095,Top Fifth
+North Carolina,"Watauga County, North Carolina",37189,0,0,1,0,0,0,0,2,870,0.23%,16.16467951,Top Fifth
+Washington,"Kitsap County, Washington",53035,0,0,1,0,0,0,0,2,7909,0.03%,16.17479506,Top Fifth
+Texas,"Travis County, Texas",48453,13,4,8,0,0,1,1,33,45530,0.07%,16.18062692,Top Fifth
+Oregon,"Clackamas County, Oregon",41005,2,0,0,0,0,0,0,2,3356,0.06%,16.18112,Top Fifth
+North Carolina,"Mecklenburg County, North Carolina",37119,1,0,0,0,0,0,0,1,39794,0.00%,16.18764865,Top Fifth
+Virginia,"Virginia Beach city, Virginia",51810,2,0,3,0,0,0,0,8,10543,0.08%,16.18848637,Top Fifth
+Michigan,"Emmet County, Michigan",26047,1,0,0,0,0,0,0,1,429,0.23%,16.18947635,Top Fifth
+Washington,"Thurston County, Washington",53067,2,0,0,0,0,0,0,2,7956,0.03%,16.20125342,Top Fifth
+North Dakota,"Grand Forks County, North Dakota",38035,0,1,0,0,0,0,0,1,1963,0.05%,16.2048847,Top Fifth
+Illinois,"Lake County, Illinois",17097,1,0,0,0,0,0,0,1,12162,0.01%,16.20799555,Top Fifth
+Wisconsin,"La Crosse County, Wisconsin",55063,2,0,0,0,0,0,0,2,2559,0.08%,16.21367211,Top Fifth
+Texas,"Fort Bend County, Texas",48157,1,0,0,0,0,0,0,1,12516,0.01%,16.22125929,Top Fifth
+Michigan,"Livingston County, Michigan",26093,0,0,0,1,1,0,1,2,1707,0.12%,16.22901426,Top Fifth
+North Dakota,"Burleigh County, North Dakota",38015,2,0,0,0,0,0,0,2,2136,0.09%,16.23005096,Top Fifth
+New Hampshire,"Merrimack County, New Hampshire",33013,2,0,2,0,0,0,0,6,2394,0.25%,16.23032826,Top Fifth
+Florida,"Seminole County, Florida",12117,0,2,0,0,0,0,0,2,11502,0.02%,16.23560046,Top Fifth
+North Carolina,"New Hanover County, North Carolina",37129,5,1,0,0,0,0,0,6,9127,0.07%,16.23979366,Top Fifth
+Oregon,"Washington County, Oregon",41067,5,1,2,0,0,0,0,10,10657,0.09%,16.24226396,Top Fifth
+Washington,"Island County, Washington",53029,3,0,0,1,0,0,0,4,1124,0.36%,16.24786652,Top Fifth
+New York,"Nassau County, New York",36059,7,45,1,0,0,0,0,54,17604,0.31%,16.25044583,Top Fifth
+Oklahoma,"Payne County, Oklahoma",40119,1,1,0,1,0,0,0,3,2361,0.13%,16.25228369,Top Fifth
+Wisconsin,"St. Croix County, Wisconsin",55109,1,1,1,0,0,0,0,4,1176,0.34%,16.25310787,Top Fifth
+Missouri,"St. Charles County, Missouri",29183,2,2,1,0,0,0,0,6,6099,0.10%,16.25657087,Top Fifth
+South Carolina,"Charleston County, South Carolina",45019,2,0,0,0,0,0,0,2,12665,0.02%,16.25916946,Top Fifth
+Texas,"Williamson County, Texas",48491,3,2,2,0,0,0,0,9,9248,0.10%,16.25968004,Top Fifth
+Massachusetts,"Franklin County, Massachusetts",25011,0,0,0,1,1,0,1,2,1408,0.14%,16.26671628,Top Fifth
+Texas,"Denton County, Texas",48121,4,0,1,0,0,0,0,6,14359,0.04%,16.26866771,Top Fifth
+California,"San Mateo County, California",6081,5,6,5,0,0,0,0,21,15747,0.13%,16.27310262,Top Fifth
+Colorado,"Teller County, Colorado",8119,1,0,0,0,0,0,0,1,360,0.28%,16.27788527,Top Fifth
+New York,"Westchester County, New York",36119,3,6,2,0,0,0,0,13,12070,0.11%,16.28164795,Top Fifth
+Colorado,"Arapahoe County, Colorado",8005,19,1,5,0,0,0,0,30,17317,0.17%,16.30120249,Top Fifth
+Minnesota,"Scott County, Minnesota",27139,0,1,0,0,0,0,0,1,2181,0.05%,16.30307658,Top Fifth
+Nebraska,"Lancaster County, Nebraska",31109,13,3,2,0,1,0,1,21,10458,0.20%,16.30350286,Top Fifth
+Connecticut,"Fairfield County, Connecticut",9001,22,13,3,0,0,0,0,41,17221,0.24%,16.31470069,Top Fifth
+Oregon,"Multnomah County, Oregon",41051,9,4,3,0,0,0,0,19,43289,0.04%,16.31520619,Top Fifth
+Pennsylvania,"Allegheny County, Pennsylvania",42003,12,2,1,0,0,0,0,16,29394,0.05%,16.32068037,Top Fifth
+Michigan,"Kalamazoo County, Michigan",26077,5,0,0,0,0,0,0,5,8494,0.06%,16.32293117,Top Fifth
+Kentucky,"Fayette County, Kentucky",21067,26,9,4,1,1,0,1,45,14270,0.32%,16.32896479,Top Fifth
+California,"Santa Clara County, California",6085,17,12,2,0,0,0,0,33,47760,0.07%,16.33028531,Top Fifth
+Idaho,"Ada County, Idaho",16001,1,4,1,0,0,0,0,7,7994,0.09%,16.33526602,Top Fifth
+Ohio,"Greene County, Ohio",39057,9,3,1,1,0,0,0,15,3912,0.38%,16.34284981,Top Fifth
+Virginia,"Stafford County, Virginia",51179,4,0,0,0,0,0,0,4,2364,0.17%,16.3455741,Top Fifth
+Montana,"Lewis and Clark County, Montana",30049,3,3,0,0,0,0,0,6,1816,0.33%,16.34705793,Top Fifth
+California,"Placer County, California",6061,7,4,0,0,0,0,0,11,7239,0.15%,16.35344391,Top Fifth
+Ohio,"Warren County, Ohio",39165,0,0,1,0,0,0,0,2,2675,0.07%,16.36003785,Top Fifth
+New Jersey,"Bergen County, New Jersey",34003,4,10,2,0,0,0,0,18,10603,0.17%,16.36018444,Top Fifth
+New Jersey,"Monmouth County, New Jersey",34025,11,2,1,1,0,0,0,16,11530,0.14%,16.36037188,Top Fifth
+Utah,"Davis County, Utah",49011,5,1,0,0,0,0,0,6,5854,0.10%,16.36133542,Top Fifth
+California,"San Francisco County, California",6075,11,7,14,0,1,4,5,47,52758,0.09%,16.36318956,Top Fifth
+Michigan,"Ingham County, Michigan",26065,7,2,0,0,0,0,0,9,8266,0.11%,16.36829083,Top Fifth
+Vermont,"Washington County, Vermont",50023,1,0,0,0,0,0,0,1,870,0.11%,16.37973385,Top Fifth
+Connecticut,"Tolland County, Connecticut",9013,1,0,0,0,0,0,0,1,767,0.13%,16.37996433,Top Fifth
+Connecticut,"Middlesex County, Connecticut",9007,3,1,0,0,0,0,0,4,1845,0.22%,16.38090095,Top Fifth
+North Carolina,"Durham County, North Carolina",37063,2,1,0,0,0,0,0,3,14497,0.02%,16.38208645,Top Fifth
+Nebraska,"Sarpy County, Nebraska",31153,0,0,1,0,0,0,0,2,2269,0.09%,16.38488654,Top Fifth
+Colorado,"El Paso County, Colorado",8041,2,1,5,0,0,0,0,13,22231,0.06%,16.3918471,Top Fifth
+New Hampshire,"Rockingham County, New Hampshire",33015,4,1,0,0,0,0,0,5,4881,0.10%,16.40993881,Top Fifth
+Massachusetts,"Dukes County, Massachusetts",25007,0,0,0,0,1,0,1,1,245,0.41%,16.41120541,Top Fifth
+New York,"Albany County, New York",36001,2,0,0,0,0,0,0,2,9219,0.02%,16.41495468,Top Fifth
+Utah,"Utah County, Utah",49049,3,2,1,0,0,0,0,7,9487,0.07%,16.41833477,Top Fifth
+Minnesota,"Dakota County, Minnesota",27037,10,0,1,0,0,0,0,12,8722,0.14%,16.44394285,Top Fifth
+New York,"Saratoga County, New York",36091,0,2,0,0,0,0,0,2,2996,0.07%,16.44873618,Top Fifth
+Washington,"Jefferson County, Washington",53031,0,1,0,0,0,0,0,1,843,0.12%,16.48437309,Top Fifth
+Pennsylvania,"Centre County, Pennsylvania",42027,2,0,0,1,0,0,0,3,1970,0.15%,16.50169011,Top Fifth
+Missouri,"St. Louis County, Missouri",29189,3,1,1,0,0,0,0,6,26139,0.02%,16.5110419,Top Fifth
+Rhode Island,"Newport County, Rhode Island",44005,1,1,0,0,0,0,0,2,1997,0.10%,16.51632502,Top Fifth
+Illinois,"DuPage County, Illinois",17043,2,0,0,0,0,0,0,2,12508,0.02%,16.52530026,Top Fifth
+Illinois,"McLean County, Illinois",17113,3,0,0,0,0,0,0,3,3724,0.08%,16.5254008,Top Fifth
+Colorado,"Jefferson County, Colorado",8059,1,0,0,0,0,0,0,1,16590,0.01%,16.52883384,Top Fifth
+Massachusetts,"Barnstable County, Massachusetts",25001,2,0,4,1,0,0,0,11,5243,0.21%,16.53273183,Top Fifth
+Florida,"St. Johns County, Florida",12109,0,0,1,0,0,0,0,2,4419,0.05%,16.53418865,Top Fifth
+Alaska,"Juneau City and Borough, Alaska",2110,6,0,0,0,0,0,0,6,1061,0.57%,16.53499641,Top Fifth
+South Dakota,"Brookings County, South Dakota",46011,0,0,0,1,0,0,0,1,468,0.21%,16.54595399,Top Fifth
+Minnesota,"Hennepin County, Minnesota",27053,40,21,7,0,0,0,0,75,42770,0.18%,16.54860279,Top Fifth
+Maine,"Cumberland County, Maine",23005,7,6,3,0,0,0,0,19,6562,0.29%,16.5538674,Top Fifth
+Florida,"Alachua County, Florida",12001,4,0,0,0,0,0,0,4,9091,0.04%,16.56829232,Top Fifth
+Minnesota,"Washington County, Minnesota",27163,3,1,0,0,0,0,0,4,5353,0.07%,16.58061259,Top Fifth
+Michigan,"Oakland County, Michigan",26125,22,4,4,0,0,0,0,34,18944,0.18%,16.60628958,Top Fifth
+Virginia,"York County, Virginia",51199,1,0,0,0,0,0,0,1,1218,0.08%,16.61495714,Top Fifth
+Minnesota,"Carver County, Minnesota",27019,1,0,0,0,0,0,0,1,1027,0.10%,16.61737251,Top Fifth
+Georgia,"Fulton County, Georgia",13121,0,0,5,0,0,0,0,10,55141,0.02%,16.64914351,Top Fifth
+Washington,"King County, Washington",53033,109,40,44,0,1,9,10,238,100616,0.24%,16.65556781,Top Fifth
+North Carolina,"Wake County, North Carolina",37183,18,7,6,0,0,0,0,37,22151,0.17%,16.67785742,Top Fifth
+Indiana,"Monroe County, Indiana",18105,7,0,2,0,0,0,0,11,4176,0.26%,16.6948554,Top Fifth
+Texas,"Collin County, Texas",48085,6,0,2,0,0,0,0,10,16724,0.06%,16.6954315,Top Fifth
+New Jersey,"Morris County, New Jersey",34027,1,1,0,0,0,0,0,2,4970,0.04%,16.73049602,Top Fifth
+Virginia,"Montgomery County, Virginia",51121,0,1,0,0,0,0,0,1,1494,0.07%,16.74979554,Top Fifth
+New York,"New York County, New York",36061,74,183,79,1,5,19,24,421,36104,1.17%,16.75099041,Top Fifth
+Missouri,"Boone County, Missouri",29019,5,0,2,0,0,0,0,9,5743,0.16%,16.75412093,Top Fifth
+Vermont,"Chittenden County, Vermont",50007,5,1,3,0,0,0,0,12,3404,0.35%,16.76464059,Top Fifth
+Massachusetts,"Hampshire County, Massachusetts",25015,2,1,1,0,0,0,0,5,2826,0.18%,16.77137254,Top Fifth
+Illinois,"Champaign County, Illinois",17019,1,2,1,0,1,0,1,6,6201,0.10%,16.78236113,Top Fifth
+Colorado,"Larimer County, Colorado",8069,9,6,1,0,0,0,0,17,7555,0.23%,16.7911949,Top Fifth
+Colorado,"Summit County, Colorado",8117,0,2,1,0,0,0,0,4,777,0.51%,16.8009948,Top Fifth
+Massachusetts,"Norfolk County, Massachusetts",25021,14,2,3,0,3,0,3,25,9606,0.26%,16.81578707,Top Fifth
+Massachusetts,"Middlesex County, Massachusetts",25017,58,36,13,3,1,5,6,124,24956,0.50%,16.85341141,Top Fifth
+New Jersey,"Somerset County, New Jersey",34035,0,0,1,0,0,0,0,2,4010,0.05%,16.85857725,Top Fifth
+Idaho,"Latah County, Idaho",16057,0,0,1,0,0,0,0,2,926,0.22%,16.88197767,Top Fifth
+Wisconsin,"Dane County, Wisconsin",55025,9,7,1,0,0,0,0,18,12282,0.15%,16.89318146,Top Fifth
+District of Columbia,"District of Columbia, District of Columbia",11001,26,18,40,1,0,19,19,125,42346,0.30%,16.91527159,Top Fifth
+Washington,"San Juan County, Washington",53055,0,0,0,0,0,1,1,0,164,0.00%,16.91913185,Top Fifth
+Ohio,"Delaware County, Ohio",39041,2,0,0,0,0,0,0,2,2561,0.08%,16.93948892,Top Fifth
+Virginia,"Loudoun County, Virginia",51107,6,1,2,0,0,0,0,11,3701,0.30%,16.98685636,Top Fifth
+Kansas,"Johnson County, Kansas",20091,3,2,0,0,0,0,0,5,9478,0.05%,16.999006,Top Fifth
+Virginia,"Fairfax County, Virginia",51059,0,1,0,0,0,0,0,1,16412,0.01%,17.02714156,Top Fifth
+California,"Marin County, California",6041,2,1,0,0,0,0,0,3,5019,0.06%,17.04865141,Top Fifth
+Tennessee,"Williamson County, Tennessee",47187,0,1,0,0,0,0,0,1,2475,0.04%,17.08614443,Top Fifth
+Iowa,"Johnson County, Iowa",19103,4,0,0,0,0,0,0,4,3186,0.13%,17.10659551,Top Fifth
+Colorado,"Pitkin County, Colorado",8097,0,1,0,0,0,0,0,1,396,0.25%,17.10975972,Top Fifth
+Virginia,"Alexandria city, Virginia",51510,0,0,2,0,0,0,0,4,3267,0.12%,17.16165897,Top Fifth
+Washington,"Whitman County, Washington",53075,0,1,1,0,0,0,0,3,893,0.34%,17.21125654,Top Fifth
+Michigan,"Washtenaw County, Michigan",26161,3,1,0,0,0,0,0,4,7632,0.05%,17.2392056,Top Fifth
+Oregon,"Benton County, Oregon",41003,1,1,0,0,0,0,0,2,2620,0.08%,17.24448111,Top Fifth
+Virginia,"Williamsburg city, Virginia",51830,1,0,0,0,0,0,0,1,350,0.29%,17.27111233,Top Fifth
+Colorado,"Douglas County, Colorado",8035,2,0,0,0,0,0,0,2,3619,0.06%,17.28371352,Top Fifth
+Colorado,"Boulder County, Colorado",8013,7,2,1,0,0,0,0,11,6583,0.17%,17.32452058,Top Fifth
+Virginia,"Falls Church city, Virginia",51610,0,1,0,0,0,0,0,1,239,0.42%,18.38947256,Top Fifth
