@@ -11,15 +11,16 @@ var y = d3.scale.linear()
     .range([height, 0]).nice();
 
 var xCat = "Average Years of Education",
-    yCat = "Hate Crime",
+    yCat = "Hate Crime Index",
     rCat = "Total Crime",
     colorCat = "Education Quintile",
-    labelCat = "County";
+    labelCat = "County",
+    sizeCat = "Total Crime";
 
 d3.csv("cereal.csv", function(data) {
   data.forEach(function(d) {
     d["Average Years of Education"] = +d["Average Years of Education"];
-    d["Hate Crime"] = +d["Hate Crime"];
+    d["Hate Crime Index"] = +d["Hate Crime Index"];
     d["Total Crime"] = +d["Total Crime"];
   });
 
@@ -49,7 +50,7 @@ d3.csv("cereal.csv", function(data) {
       .attr("class", "d3-tip")
       .offset([-10, 0])
       .html(function(d) {
-        return xCat + ": " + d[xCat] + "<br>" + yCat + ": " + d[yCat] + "<br>" + labelCat + ": " + d[labelCat];
+        return labelCat + ": " + d[labelCat]+ "<br>" + sizeCat + ": " + d[sizeCat] + "<br>" + yCat + ": " + d[yCat] + "<br>" + xCat + ": " + d[xCat];
       });
 
   var zoomBeh = d3.behavior.zoom()
