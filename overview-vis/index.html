@@ -43,7 +43,7 @@ var line = d3.svg.line()
     .x(function(d) { return x(d.date); })
     .y(function(d) { return y(d.price); });
 
-d3.csv("incidents-by-type.csv", type, function(error, data) {
+d3.csv("incidents-by-type-copy.csv", type, function(error, data) {
 
   // Nest data by symbol.
   var symbols = d3.nest()
