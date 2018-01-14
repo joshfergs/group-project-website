@@ -17,7 +17,7 @@ var xCat = "Average Years of Education",
     labelCat = "County",
     sizeCat = "Total Crime";
 
-d3.csv("cereal.csv", function(data) {
+d3.csv("education.csv", function(data) {
   data.forEach(function(d) {
     d["Average Years of Education"] = +d["Average Years of Education"];
     d["Hate Crime Index"] = +d["Hate Crime Index"];
@@ -121,7 +121,7 @@ d3.csv("cereal.csv", function(data) {
       .classed("dot", true)
       .attr("r", function (d) { return .1 * Math.sqrt(d[rCat] / Math.PI); })
       .attr("transform", transform)
-      .style("fill", function(d) { return color(d[colorCat]); })
+      .style("fill", "#3d787c")
       .on("mouseover", tip.show)
       .on("mouseout", tip.hide);
 
