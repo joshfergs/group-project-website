@@ -1,27 +1,3 @@
-<!DOCTYPE html>
-<meta charset="utf-8">
-<style>
-
-body {
-  font: 10px sans-serif;
-  margin: 0;
-}
-
-.line {
-  fill: none;
-  stroke: #666;
-  stroke-width: 1.5px;
-}
-
-.area {
-  fill: #e7e7e7;
-}
-
-</style>
-<body>
-<script src="//d3js.org/d3.v3.min.js"></script>
-<script>
-
 var margin = {top: 8, right: 10, bottom: 2, left: 10},
     width = 960 - margin.left - margin.right,
     height = 69 - margin.top - margin.bottom;
@@ -43,7 +19,7 @@ var line = d3.svg.line()
     .x(function(d) { return x(d.date); })
     .y(function(d) { return y(d.price); });
 
-d3.csv("incidents-by-type-copy.csv", type, function(error, data) {
+d3.csv("incidents-by-type.csv", type, function(error, data) {
 
   // Nest data by symbol.
   var symbols = d3.nest()
@@ -94,5 +70,3 @@ function type(d) {
   d.date = parseDate(d.date);
   return d;
 }
-
-</script>

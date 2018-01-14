@@ -1,24 +1,3 @@
-<!DOCTYPE html>
-<meta charset="utf-8">
-<style>
-
-.counties {
-  fill: none;
-}
-
-.states {
-  fill: none;
-  stroke: #fff;
-  stroke-linejoin: round;
-}
-
-</style>
-<svg width="960" height="600"></svg>
-<script src="https://d3js.org/d3.v4.min.js"></script>
-<script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
-<script src="https://d3js.org/topojson.v2.min.js"></script>
-<script>
-
 var svg = d3.select("svg"),
     width = +svg.attr("width"),
     height = +svg.attr("height");
@@ -27,12 +6,13 @@ var unemployment = d3.map();
 
 var path = d3.geoPath();
 
+
 var x = d3.scaleLinear()
     .domain([1, 200])
     .rangeRound([600, 860]);
 
 var color = d3.scaleThreshold()
-    .domain(d3.range(0, 200, 25))
+    .domain([1,5,10,25,65,100,150,200])
     .range(d3.schemeBlues[9]);
 
 var g = svg.append("g")
@@ -91,5 +71,3 @@ function ready(error, us) {
       .attr("class", "states")
       .attr("d", path);
 }
-
-</script>
