@@ -21,6 +21,7 @@
 <h1>United States</h1>
 </div>
 
+
 <div id="content">
 <div id="intro">
 <h2>Introduction</h2>
@@ -40,6 +41,15 @@
 <br></br> 
 <br></br> 
 <br></br> 
+
+<div class="chart" , id="map">
+<svg width="960" height="600"></svg>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+<script src="https://d3js.org/topojson.v2.min.js"></script>
+<script src="js/map.js"> </script>
+</div>
+
 <br></br> 
 <br></br> 
 <br></br> 
@@ -68,7 +78,11 @@
 <p class="chart-note">* Religion uses the inverse of the coefficient. In this scenario, when whites make more than average, religion-based hate crimes are less likely to occur.</p>
 <p class="source">Source: Crimes from <a href="https://ucr.fbi.gov/hate-crime/2016/tables/table-13/table_13_hate_crime_incidents_per_bias_motivation_and_quarter_by_state_and_agency_2016.xls/view">FBI Hate Crime database</a>. Economic data from US Census 2018, via <a href="https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml">American FactFinder</a>.</p>
 <p class="template">Template: d3.js from <a href="https://bl.ocks.org/mbostock/3887051">Bostock</a></p>
+
+
 </div>
+
+
 <br></br> 
 <br></br> 
 
@@ -78,9 +92,10 @@
 
 <div id="overview">
 <script src="//d3js.org/d3.v3.min.js"></script>
-<script src="overview-vis.js"></script>
+<script src="js/overview-vis.js"></script>
 
 </div>
+
 
 </body>
 </html>
