@@ -113,15 +113,6 @@ h1 {
   fill: #e7e7e7;
 }
 
-#map .counties {
-  fill: none;
-}
-
-#map .states {
-  fill: none;
-  stroke: #fff;
-  stroke-linejoin: round;  
-}
-
-
+.frame{
+  margin: 100px;
 }
