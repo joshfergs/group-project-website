@@ -1,5 +1,8 @@
 # Final product: 
 
+## File structure:
+    We have a messy file structure. Sorry. We are too scared to fix it/move files because of how our data is linked and formatting from D3 to D4. This was our main takeaway -- use a better file structure before you're in too deep.
+
 ## Original data and transformations:
     Timeline visualization: https://ucr.fbi.gov/hate-crime/2016/tables/table-1/table_1_incidents_offenses_victims_and_known_offenders_by_bias_motivation_2016.xls/output.xls 
     Data transformation notes:
