@@ -4,10 +4,14 @@
     We have a messy file structure. Sorry. We are too scared to fix it/move files because of how our data is linked and formatting from D3 to D4. This was our main takeaway -- use a better file structure before you're in too deep.
 
 ## Original data and transformations:
-    Timeline visualization: https://ucr.fbi.gov/hate-crime/2016/tables/table-1/table_1_incidents_offenses_victims_and_known_offenders_by_bias_motivation_2016.xls/output.xls 
-    Data transformation notes:
+    Timeline visualization: https://ucr.fbi.gov/hate-crime/2016/tables/table-1/table_1_incidents_offenses_victims_and_known_offenders_by_bias_motivation_2016.xls/output.xls (This is one year of the data. Full data pull included the 2011-2016 files that all looked like this. 
+    Data transformation notes: 
+        -Pulled the data down from the FBI site
+        -Used a vlookup to pull the data from each year into the same file with columns for the different years
+        -Transposed the data so that it would line up correctly to be changed into a csv
+        -Transformed the data from an excel file into a csv
     
-    Location visualization: 
+    Location visualization: https://ucr.fbi.gov/hate-crime/2016/tables/table-1/table_1_incidents_offenses_victims_and_known_offenders_by_bias_motivation_2016.xls/output.xls 
     Data transformation notes: 
     
     Education visualization:
