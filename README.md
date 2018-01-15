@@ -40,7 +40,8 @@
   ## GitHut collab: 
     We chose to talk via Slack/text/phone/in-person versus commenting on GitHub. NOTE-- we had some GitHub issues in the beginning of the project; a dozen or so commits were lost and show as one big commit at the start. 
   
-  ## Retrospective: On Slack. Group agreed:
+  ## Retrospective: On Slack. 
+    Group agreed to:
     START: Create and use standard file structure!! Our main takeaway!!
     STOP: Using user stories that don't relate to project
     CONTINUE: Frequent, short scrum meetings that facilitate effective communication
