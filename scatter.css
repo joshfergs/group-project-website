@@ -10,6 +10,11 @@ rect {
   shape-rendering: crispEdges;
 }
 
+.axis text {
+  font-family: 'Yantramanav', sans-serif;
+  font-size: 10px;
+}
+
 .axisLine {
   fill: none;
   shape-rendering: crispEdges;
