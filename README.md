@@ -14,8 +14,7 @@
     Location visualization: https://ucr.fbi.gov/hate-crime/2016/tables/table-1/table_1_incidents_offenses_victims_and_known_offenders_by_bias_motivation_2016.xls/output.xls 
     Data transformation notes: 
     
-    Education visualization:
-    Data tranformation notes:
+    Education and Economy visualization: See Filter.R in the data directory. Original data from UCR Hate Crime database (same as above) and US Census via American Factfinder. https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml
   
 ## Visualization modifications:
     Timeline visual (Josh): I changed the number and formatting of the ticks. 
