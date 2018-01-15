@@ -27,7 +27,7 @@ d3.csv("Education.csv", function(data) {
   var xMax = d3.max(data, function(d) { return d[xCat]; }) * 1.05,
       xMin = d3.min(data, function(d) { return d[xCat]; }),
       xMin = 12,
-      yMax = d3.max(data, function(d) { return d[yCat]; }) * 1.05,
+      yMax = 1,
       yMin = d3.min(data, function(d) { return d[yCat]; }),
       yMin = yMin > 0 ? 0 : yMin;
 
