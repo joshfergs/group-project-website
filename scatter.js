@@ -17,7 +17,7 @@ var xCat = "Average Years of Education",
     labelCat = "County",
     sizeCat = "Total Crime";
 
-d3.csv("education.csv", function(data) {
+d3.csv("Education.csv", function(data) {
   data.forEach(function(d) {
     d["Average Years of Education"] = +d["Average Years of Education"];
     d["Hate Crime Index"] = +d["Hate Crime Index"];
