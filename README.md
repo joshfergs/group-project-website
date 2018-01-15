@@ -29,7 +29,7 @@
     1/11: Class scrum. Informal. Blockers: Font issues, education data issues (controlling for population/crime rate)
     1/12: Class scrum. Touch base; update on progress. No blockers.
     1/14: In-person/Phone scrum. Blockers: VISUALIZATIONS (everything)
-    1/15: Phone scrum. Final submission work-through. No blockers
+    1/15: Phone scrum. Final submission work-through. No blockers.
     
   ## Trello: 
     https://trello.com/b/uHswVySR/b1-domestic-social-policy-team
@@ -40,8 +40,8 @@
   ## GitHut collab: 
     We chose to talk via Slack/text/phone/in-person versus commenting on GitHub. NOTE-- we had some GitHub issues in the beginning of the project; a dozen or so commits were lost and show as one big commit at the start. 
   
-  ## Retrospective: On Slack. 
-    Group agreed to:
+  ## Retrospective: 
+    Individual retrospectives on Slack. Group agreed to:
     START: Create and use standard file structure!! Our main takeaway!!
     STOP: Using user stories that don't relate to project
     CONTINUE: Frequent, short scrum meetings that facilitate effective communication
